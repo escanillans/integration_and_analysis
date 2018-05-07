@@ -1,0 +1,8210 @@
+tuple_id,genre
+0,pop rock
+0,alternative rock
+1,pop rock
+2,electronic
+3,hip hop
+3,rap
+4,hip hop
+4,rap
+5,pop rock
+5,alternative rock
+6,pop rock
+6,electronica
+7,pop rock
+7,post punk
+8,electronic
+9,pop rock
+9,indie pop
+9,indie rock
+10,pop rock
+10,psychedelic pop
+11,hip hop
+11,indie pop
+11,rap
+12,folk
+12,pop rock
+12,pop
+13,pop rock
+13,rock
+14,pop rock
+15,pop rock
+15,krautrock
+15,psychedelic rock
+15,acid rock
+16,pop rock
+16,indie rock
+17,pop rock
+18,hard rock
+18,alternative rock
+18,sludge
+18,alternative indie rock
+18,rock
+19,pop rock
+19,rock
+20,folk
+20,americana
+20,old time
+21,pop rock
+21,rock
+22,country
+23,electronic
+23,r&b
+23,jazz fusion
+24,grime
+24,rap
+25,indie rock
+25,indie folk
+25,pop rock
+25,garage rock
+25,folk rock
+26,country
+27,hip hop
+27,rap
+28,hip hop
+28,trap
+28,rap
+29,pop rock
+29,alternative rock
+30,pop rock
+30,experimental rock
+30,art pop
+31,hip hop
+31,rap
+32,pop rock
+32,americana
+32,outlaw country
+33,pop rock
+33,indie rock
+33,punk rock
+34,rock
+34,alternative country
+34,alt country
+35,pop rock
+35,post punk
+35,art pop
+36,pop rock
+36,indie rock
+37,indie
+37,electronic
+37,dream pop
+38,pop rock
+38,indie rock
+39,garage rock
+39,pop rock
+39,garage punk
+40,folk
+40,indie pop
+40,folk rock
+41,hip hop
+41,trap
+41,rap
+42,hip hop
+42,pop
+43,country
+44,hip hop
+44,rap
+45,vaporwave
+45,ambient
+45,neoclassical new age
+45,electronic
+46,pop rock
+46,indie pop
+47,blues
+47,pop rock
+47,soul
+48,post hardcore
+48,pop rock
+48,hardcore punk
+48,metalcore
+48,sludge metal
+49,pop rock
+50,pop rock
+51,electronic
+52,hip hop
+52,rap
+53,pop rock
+54,pop rock
+54,pop
+55,pop rock
+55,alternative rock
+55,art rock
+56,pop rock
+56,thrash metal
+57,pop rock
+57,alternative rock
+57,americana
+57,heartland rock
+57,rock
+58,pop rock
+58,alternative rock
+59,electronic
+60,pop rock
+60,indie rock
+60,surf music
+61,punk
+61,heartland rock
+61,punk rock
+62,pop rock
+62,hard rock
+63,pop rock
+63,crossover thrash
+64,synth pop
+64,pop rock
+64,r&b
+65,hip hop
+65,rap
+66,r&b
+66,alternative r&b
+67,alternative rock
+67,pop rock
+67,rock
+67,post britpop
+68,pop rock
+68,rock
+69,pop rock
+69,contemporary folk
+70,noise rock
+70,indie rock
+70,pop rock
+70,post hardcore
+70,punk rock
+71,pop punk
+71,indie rock
+71,garage punk
+71,pop rock
+71,noise pop
+72,pop rock
+72,soft rock
+72,funk
+72,r&b
+72,pop
+73,surf punk
+73,pop rock
+73,indie rock
+74,folk
+74,world music
+74,new age
+74,progressive rock
+75,synth pop
+75,pop rock
+75,indie rock
+76,pop rock
+76,punk rock
+77,r&b
+77,alternative r&b
+78,pop rock
+78,thrash metal
+79,pop rock
+79,rock
+80,country
+81,hip hop
+81,alternative hip hop
+81,rap
+82,jazz
+83,pop rock
+84,ambient
+84,electronic
+84,post rock
+85,synth pop
+85,pop rock
+85,new wave
+85,house
+86,pop rock
+86,baroque pop
+86,glam rock
+87,ambient
+87,drone
+87,electronic
+88,pop rock
+88,alternative rock
+88,hardcore punk
+88,punk rock
+89,pop rock
+89,indie rock
+90,hip hop
+90,rap
+91,pop rock
+91,electronic
+91,experimental rock
+91,neo psychedelia
+91,dream pop
+92,pop rock
+92,dream pop
+92,indie rock
+92,alternative dance
+93,electronic
+94,pop rock
+94,rock
+94,indie rock
+94,pop
+95,electronic
+96,death metal
+96,pop rock
+96,groove metal
+96,thrash metal
+97,pop rock
+97,metalcore
+98,grime
+98,electronic
+99,jazz
+100,pop rock
+100,punk rock
+101,celtic punk
+101,pop rock
+101,folk punk
+102,pop rock
+102,indie rock
+103,pop rock
+104,country pop
+104,pop
+105,pop rock
+105,hard rock
+105,rock and roll
+106,ambient
+106,electronic
+107,hip hop
+107,rap
+108,hip hop
+108,rap
+109,pop rock
+109,industrial rock
+110,hip hop
+110,rap
+111,pop rock
+111,rock
+112,hip hop
+112,rap
+113,electronic
+114,blues
+114,pop rock
+115,pop rock
+116,soul
+116,r&b
+117,psychedelic rock
+117,funk
+117,soul
+117,r&b
+117,rap
+117,psychedelic soul
+118,stage & screen
+118,dancehall
+118,soul
+118,r&b
+118,hip hop
+119,electro house
+119,progressive house
+119,electronic
+120,pop rock
+120,pop
+121,r&b
+122,country
+123,thrash metal
+123,heavy metal
+124,electro
+124,electronic
+124,funk
+124,nu disco
+125,country
+126,pop rock
+126,psychedelic rock
+126,garage rock
+127,funk
+127,pop
+128,pop rock
+128,alternative rock
+129,pop
+130,pop rock
+130,noise pop
+130,electronica
+130,industrial rock
+131,pop rock
+131,adult contemporary
+132,gospel
+132,pop rock
+132,trip hop
+132,pop
+133,alternative hip hop
+133,rap
+133,jazz rap
+134,pop rock
+134,progressive metal
+134,djent
+135,hip hop
+135,trap
+135,rap
+136,pop rock
+136,indie rock
+137,folk
+138,pop rock
+138,rock
+138,hard rock
+139,folk
+140,pop rock
+140,adult contemporary
+140,pop
+141,pop rock
+141,alternative rock
+141,psychedelic rock
+141,indie rock
+142,pop rock
+142,alternative rock
+143,hip hop
+143,rap
+144,hip hop
+144,soul
+144,r&b
+145,pop rock
+145,experimental rock
+146,pop rock
+146,alternative rock
+146,power pop
+147,new wave
+147,electronic
+147,synth pop
+147,pop
+147,edm
+148,dance pop
+148,electronic
+148,synth pop
+148,electropop
+148,tech house
+149,pop rock
+149,ska
+149,reggae
+149,pop
+150,new wave
+150,pop rock
+150,goth pop
+150,synth pop
+150,post punk
+151,hard rock
+151,industrial rock
+151,pop rock
+151,power pop
+151,stoner rock
+152,pop rock
+152,thrash metal
+153,hip hop
+153,trap
+153,rap
+154,pop rock
+154,alternative metal
+155,thrash metal
+155,heavy metal
+155,progressive metal
+155,emo
+156,christmas
+156,country
+157,pop rock
+157,nu metal
+158,folk
+158,pop rock
+158,soft rock
+159,dream pop
+159,indie pop
+159,electronic
+160,pop rock
+160,dance pop
+160,soft rock
+161,rock
+161,post rock
+162,pop rock
+163,pop rock
+163,rock
+164,pop rock
+164,rock
+165,pop rock
+165,rock
+166,country blues
+166,americana
+166,southern soul
+166,country
+166,countrypolitan
+167,electronic
+168,pop rock
+168,indie rock
+169,hip hop
+169,rap
+170,jazz
+171,pop rock
+172,pop rock
+172,soul
+172,r&b
+172,pop
+173,pop rock
+173,indie rock
+174,pop rock
+174,experimental rock
+174,mathcore
+175,pop rock
+175,rock
+176,pop rock
+176,indie rock
+177,jazz
+178,dub
+178,idm
+178,electronic
+178,electronica
+178,chill out
+179,pop rock
+179,pop
+180,r&b
+180,pop
+181,pop rock
+181,black metal
+182,pop rock
+182,rock
+183,alternative indie rock
+183,indie rock
+183,punk rock
+184,pop rock
+184,alternative rock
+184,psychedelic
+185,pop punk
+185,pop rock
+185,alternative rock
+185,punk rock
+186,electronic
+186,pop
+187,pop rock
+187,indie rock
+187,britpop
+188,pop punk
+188,indie rock
+188,pop rock
+188,emo
+188,punk rock
+189,pop rock
+189,indie rock
+190,pop rock
+190,jazz
+191,pop punk
+191,pop rock
+191,alternative rock
+191,alternative metal
+191,punk rock
+192,hard rock
+192,progressive metal
+192,pop rock
+192,alternative metal
+192,heavy metal
+193,pop rock
+193,rock
+193,country
+194,punk
+194,punk rock
+195,hip hop
+195,rap
+196,pop rock
+196,post hardcore
+196,experimental rock
+197,pop rock
+197,extreme metal
+197,progressive metal
+197,avant garde metal
+198,pop rock
+198,pop
+199,techno
+199,electronic
+199,electronic music
+200,electronica
+200,alternative indie rock
+200,avant garde
+200,art pop
+201,hip hop
+201,r&b
+202,pop rock
+202,alternative rock
+202,indie rock
+203,pop rock
+203,indie folk
+203,folktronica
+204,pop rock
+204,alternative rock
+204,country rock
+204,alternative country
+205,pop rock
+205,alternative
+205,pop
+206,rock
+206,na
+207,electronic dance music
+207,electronic
+208,experimental
+208,pop rock
+208,electropop
+209,punk
+209,hardcore punk
+209,punk revival
+210,progressive rock
+210,heavy metal
+210,progressive metal
+211,pop rock
+211,alternative r&b
+212,pop punk
+212,alternative rock
+212,emo pop
+213,folk
+213,pop rock
+213,rock
+213,country
+214,neo soul
+214,r&b
+215,pop rock
+215,crossover thrash
+216,experimental hip hop
+216,rap
+217,hip hop
+217,rap
+218,pop rock
+218,indie
+218,alternative
+218,indie folk
+219,southern rock
+219,hardcore punk
+219,metalcore
+219,metal
+220,pop rock
+220,indie rock
+221,pop rock
+221,punk rock
+222,pop rock
+222,indie rock
+223,electronic
+223,art pop
+224,pop rock
+224,rock
+225,glam rock
+225,art rock
+225,contemporary pop rock
+226,pop rock
+226,folk jazz
+227,pop rock
+228,pop rock
+228,hard rock
+229,pop rock
+230,pop rock
+230,punk rock
+231,electronic
+232,pop rock
+232,electronic
+233,alternative hip hop
+233,rap
+234,screamo
+234,melodic hardcore
+234,pop rock
+234,emo
+234,post hardcore
+235,hip hop
+235,trap
+235,r&b
+236,rock
+236,alternative rock
+236,emo
+237,hip hop
+237,rap
+238,country
+239,alternative hip hop
+239,electronic
+239,rave
+240,pop rock
+241,experimental hip hop
+241,rap
+242,hip hop
+242,electronic
+243,pop rock
+243,indie rock
+244,pop rock
+244,alternative rock
+245,pop rock
+246,blues
+246,pop rock
+246,acoustic
+247,pop rock
+247,pop
+248,pop rock
+248,indie pop
+249,pop rock
+249,indie rock
+250,ambient
+250,pop rock
+250,alternative rock
+250,electronica
+250,avant garde
+251,symphonic metal
+251,pop rock
+251,progressive rock
+251,progressive metal
+252,pop rock
+252,alternative rock
+252,indie rock
+253,pop rock
+253,indie pop
+253,indie rock
+253,indie folk
+254,hip hop
+254,rap
+255,pop rock
+255,psychedelic rock
+255,garage rock
+255,folk rock
+255,dream pop
+256,electronic
+257,electronic
+258,pop rock
+258,folk pop
+259,folk
+259,alternative r&b
+260,pop punk
+260,pop rock
+260,metalcore
+261,pop rock
+261,psychedelic rock
+262,pop rock
+262,rock
+263,hip hop
+263,rap
+264,pop rock
+264,dance pop
+265,pop rock
+265,indie pop
+265,alternative r&b
+265,art pop
+266,pop rock
+267,new wave
+267,pop rock
+267,post punk
+267,hip hop
+267,experimental hip hop
+268,na
+268,r&b
+269,alternative hip hop
+269,dream pop
+269,na
+269,alternative r&b
+270,pop rock
+271,folk
+271,pop rock
+271,indie
+272,electropunk
+272,electronic
+272,witch house
+273,pop rock
+273,indie rock
+274,pop rock
+274,alternative rock
+274,progressive rock
+275,pop rock
+275,alternative rock
+275,indie rock
+276,pop rock
+276,alternative rock
+276,indie rock
+277,synth pop
+277,pop rock
+277,art rock
+277,art pop
+278,post metal
+278,pop rock
+278,instrumental rock
+278,post rock
+279,pop rock
+279,indie pop
+279,indie rock
+280,pop rock
+281,pop rock
+281,soul
+281,country pop
+282,trap
+282,electronic
+282,pop
+282,hip hop
+282,edm
+283,grime
+283,electronic
+283,uk hip hop
+284,electronic
+284,r&b
+285,pop punk
+285,pop rock
+285,punk rock
+286,pop punk
+286,pop rock
+286,alternative rock
+286,post hardcore
+286,punk rock
+287,hip hop
+287,rap
+288,hip hop
+288,trap
+288,r&b
+288,rap
+289,pop rock
+289,progressive metal
+289,djent
+290,hip hop
+290,trap
+290,rap
+291,drill
+291,trap
+291,rap
+292,soul
+292,acoustic
+292,r&b
+293,west coast hip hop
+293,rap
+294,country
+295,pop punk
+295,pop rock
+295,alternative rock
+296,plunderphonics
+296,disco
+296,electronic
+296,neo psychedelia
+296,hip hop
+297,pop rock
+297,electropop
+298,electropop
+298,alternative indie rock
+298,art pop
+299,pop rock
+299,alternative rock
+299,electronic rock
+300,hip hop
+300,west coast hip hop
+300,gangsta rap
+300,rap
+301,folk rock
+301,pop rock
+301,hard rock
+302,rock
+302,pop rock
+302,baroque pop
+303,pop punk
+303,pop rock
+303,alternative rock
+304,indie electronic
+304,electronic
+305,neo soul
+305,r&b
+306,americana
+306,country
+307,pop rock
+307,funk
+307,baroque pop
+307,r&b
+307,jazz
+308,pop
+309,pop rock
+309,rock
+310,hip hop
+310,electronic
+310,instrumental hip hop
+311,pop rock
+311,indie rock
+312,deathcore
+312,pop rock
+312,groove metal
+313,synth pop
+313,electropop
+313,dance
+313,pop
+314,pop rock
+314,indie rock
+315,pop rock
+315,punk
+315,pop
+315,funk
+316,pop rock
+316,rock
+316,punk rock
+317,electronic
+318,pop rock
+318,soul
+318,r&b
+319,pop rock
+319,alternative rock
+319,funk rock
+320,pop rock
+320,indie rock
+321,pop rock
+321,experimental music
+322,pop rock
+323,pop rock
+323,indie rock
+324,pop rock
+324,progressive metal
+324,groove metal
+324,technical death metal
+325,pop rock
+325,rock
+326,pop rock
+326,alternative rock
+326,electronic rock
+326,industrial rock
+327,blues
+327,r&b
+327,jazz
+328,pop rock
+328,rock
+329,pop rock
+329,indie pop
+329,indie rock
+330,neo soul
+330,pop rock
+330,indie pop
+331,southern rock
+331,pop rock
+331,indie rock
+332,country
+333,pop rock
+333,r&b
+333,pop
+334,folk
+334,americana
+335,pop rock
+335,indie electronic
+335,indie pop
+336,pop rock
+336,indie rock
+337,pop rock
+337,blues rock
+337,hard rock
+338,synth pop
+338,pop rock
+339,pop rock
+339,indie rock
+340,folk
+340,pop rock
+340,acoustic rock
+341,pop rock
+341,alternative rock
+342,folk rock
+342,pop rock
+343,pop rock
+343,art rock
+343,psychedelic rock
+343,experimental rock
+344,pop rock
+344,experimental pop
+344,dance rock
+345,pop rock
+345,indie pop
+345,synth pop
+345,indie electronic
+345,alternative dance
+346,pop rock
+346,hardcore punk
+346,metalcore
+347,electronic
+348,techno
+348,new wave
+348,glam rock
+348,pop rock
+348,electropop
+348,pop
+349,pop rock
+349,alternative rock
+350,metalcore
+350,metal
+351,pop rock
+351,alternative rock
+351,indie rock
+352,pop rock
+353,electronic
+354,pop rock
+354,rock
+354,power pop
+355,pop rock
+356,pop rock
+356,alternative rock
+356,indie rock
+357,pop rock
+357,punk rock
+358,pop rock
+358,trip hop
+359,pop rock
+359,post hardcore
+360,jazz
+361,pop punk
+361,pop rock
+362,pop rock
+363,edm
+363,tropical house
+363,pop
+364,electronic
+364,pop
+365,blues
+365,pop rock
+365,indie pop
+365,soul
+365,jazz
+366,pop rock
+366,alternative rock
+366,post hardcore
+367,southern rock
+367,pop rock
+367,country rock
+368,electronic
+369,pop rock
+370,blues
+370,pop rock
+370,blues rock
+370,folk
+371,traditional pop
+371,pop rock
+372,pop rock
+372,indie rock
+373,alternative rock
+373,na
+374,vocal
+374,r&b
+374,pop
+375,synth pop
+375,dream pop
+375,indie pop
+375,alternative indie rock
+376,electro house
+376,electronic
+377,pop
+378,electronic
+378,r&b
+378,pop
+379,r&b
+380,pop punk
+380,pop rock
+380,indie rock
+381,dance pop
+381,r&b
+381,pop
+382,pop rock
+382,hardcore punk
+382,metalcore
+383,electronic
+383,tropical house
+384,pop rock
+384,rock
+385,pop rock
+385,post hardcore
+386,pop rock
+386,heavy metal
+387,hip hop
+387,trap
+387,rap
+388,alternative
+388,art rock
+388,electronic
+389,country
+389,country rock
+389,country blues
+389,pop
+390,digital hardcore
+390,experimental hip hop
+390,rap
+391,hip hop
+391,rap
+392,pop rock
+392,punk rock
+393,experimental
+393,pop rock
+393,ambient
+394,pop rock
+394,electronic
+394,experimental
+394,synth pop
+394,edm
+395,electronic
+396,electronic
+396,electronic music
+397,country
+397,country pop
+397,pop
+398,jazz
+399,soul
+399,electronic
+399,electronic pop
+399,r&b
+400,ambient
+400,electronic
+401,post britpop
+401,indie rock
+401,pop rock
+401,alternative rock
+401,soft rock
+402,pop rock
+402,hard rock
+403,trap
+403,blues
+403,funk
+403,gospel
+403,country
+403,r&b
+403,pop
+403,hip hop
+403,rock
+404,pop
+405,hip hop
+405,rap
+406,shoegazing
+406,experimental hip hop
+406,industrial hip hop
+406,rap
+407,electronica
+407,dubstep
+407,r&b
+407,pop
+407,house
+407,edm
+408,r&b
+408,alternative r&b
+409,soundtrack
+409,dark ambient
+409,experimental rock
+410,country
+410,psychedelic rock
+411,pop rock
+411,rock
+412,art pop
+412,pop rock
+412,indie pop
+412,neo psychedelia
+413,pop rock
+413,rock
+414,pop rock
+414,latin rock
+415,hip hop
+415,rap
+416,pop rock
+416,britpop
+417,new wave
+417,electronic
+418,indie rock
+418,pop rock
+418,funk rock
+418,blues rock
+418,garage rock
+419,synth pop
+419,new wave
+419,dream pop
+419,electronic
+420,post metal
+420,pop rock
+420,alternative metal
+420,experimental rock
+421,pop rock
+421,indie rock
+422,electronic
+423,folk rock
+423,americana
+423,country
+423,indie folk
+424,pop rock
+424,alternative rock
+424,blues rock
+424,r&b
+424,folk rock
+424,rock
+425,soul
+425,r&b
+426,pop rock
+426,indie pop
+427,pop rock
+427,noise rock
+428,pop rock
+428,r&b
+428,pop
+429,folk
+430,r&b
+430,alternative r&b
+431,electronic
+432,pop rock
+432,indie rock
+433,synth pop
+433,electronic
+434,blues
+434,pop rock
+434,folk
+435,na
+435,experimental rock
+436,pop rock
+436,rock
+437,pop rock
+437,indie folk
+438,pop rock
+438,post rock
+439,experimental techno
+439,ambient techno
+439,electronic
+440,experimental pop
+440,progressive rock
+440,pop rock
+440,contemporary classical
+440,avant garde
+441,pop rock
+441,electronic
+441,experimental rock
+442,folk
+442,rock
+443,southern rock
+443,hard rock
+443,pop rock
+443,post grunge
+443,alternative metal
+444,pop rock
+445,pop
+446,j pop
+446,pop rock
+446,heavy metal
+447,experimental
+447,pop rock
+448,pop rock
+448,alternative rock
+449,alternative rock
+449,alternative indie rock
+450,r&b
+450,alternative r&b
+450,pop
+451,pop rock
+451,melodic death metal
+452,electronicore
+452,pop rock
+452,metalcore
+453,pop rock
+453,indie pop
+453,indie folk
+454,soul
+454,r&b
+454,pop
+455,pop rock
+455,heavy metal
+456,pop rock
+457,pop rock
+457,alternative rock
+458,hard rock
+458,pop rock
+458,metalcore
+458,pop
+458,post hardcore
+458,nu metal
+458,alternative metal
+458,heavy metal
+459,electronic
+460,punk
+460,art rock
+460,hard rock
+460,garage rock
+461,pop
+462,pop rock
+462,industrial metal
+462,heavy metal
+462,gothic rock
+462,punk rock
+463,metalcore
+463,metal
+464,pop rock
+465,rock
+465,na
+465,alternative rock
+465,heartland rock
+466,art pop
+466,electropop
+466,pop
+467,pop rock
+467,pop
+468,pop rock
+468,alternative
+468,pop
+469,hard rock
+469,pop rock
+469,alternative rock
+469,post grunge
+469,alternative metal
+470,electro
+470,electronica
+470,r&b
+470,alternative r&b
+471,pop rock
+471,indie pop
+472,hip hop
+472,funk
+472,rap
+472,jazz rap
+473,hip hop
+473,trap
+473,rap
+474,pop rock
+474,indie rock
+474,psychedelic pop
+475,synth pop
+475,pop rock
+475,indie electronic
+476,pop rock
+476,christian metal
+476,melodic metalcore
+477,alternative folk
+477,pop rock
+478,pop rock
+478,rock
+479,ambient
+479,electronic
+479,alternative r&b
+480,art rock
+480,math rock
+480,funk
+480,jazz
+480,jazz fusion
+481,pop punk
+481,pop rock
+482,pop rock
+483,new wave
+483,alternative dance
+483,electronic
+483,art pop
+484,blues
+484,pop rock
+484,rock
+484,americana
+485,pop rock
+485,dream pop
+486,pop rock
+486,thrash metal
+487,pop rock
+487,alternative rock
+487,indie rock
+488,synth pop
+488,pop rock
+488,new wave
+488,indie rock
+489,country
+489,jazz
+490,hip hop
+490,rap
+491,speed metal
+491,pop rock
+491,heavy metal
+492,neo soul
+492,soul
+492,r&b
+493,pop rock
+493,indie pop
+493,pop
+494,pop punk
+494,pop rock
+494,power pop
+494,punk rock
+495,na
+495,psychedelic pop
+496,indie rock
+496,pop rock
+496,alternative
+496,electronic
+496,house
+497,soul
+497,roots rock
+497,r&b
+498,hard rock
+498,pop rock
+498,neo psychedelia
+498,heavy metal
+498,stoner rock
+499,pop rock
+499,indie pop
+499,pbr&b
+500,pop rock
+500,indie rock
+501,pop rock
+501,rock
+502,pop rock
+503,r&b
+504,hip hop
+504,rap
+505,hip hop
+505,rap
+506,pop rock
+506,alternative rock
+506,dream pop
+507,pop rock
+507,americana
+508,folk
+508,pop rock
+508,rock
+509,pop rock
+509,hard rock
+510,folk
+510,pop rock
+510,indie pop
+511,pop rock
+511,rock
+511,psychedelic rock
+511,raga rock
+512,country
+513,country
+514,krautrock
+514,pop rock
+514,shoegazing
+514,indie rock
+515,pop rock
+515,indie pop
+515,funk
+516,pop rock
+516,rock
+516,soft rock
+516,vocal jazz
+517,technopop
+517,edm
+517,electronic
+518,synth pop
+518,pop rock
+519,pbr&b
+519,synth pop
+519,r&b
+519,synthwave
+519,rap
+520,pop rock
+521,hip hop
+521,rap
+522,progressive house
+522,electro house
+522,electronic
+522,house
+522,electro
+523,neo soul
+523,r&b
+523,electronica
+524,pop rock
+524,r&b
+524,pop
+525,pop rock
+525,alternative dance
+525,indie rock
+526,pop rock
+526,indie rock
+527,power pop
+527,electropop
+527,soul
+527,pop
+528,pop rock
+528,indie electronic
+528,indie pop
+528,dream pop
+529,pop rock
+529,rock
+530,pop rock
+531,pop rock
+531,progressive rock
+531,progressive metal
+532,blues
+532,pop rock
+532,r&b
+532,soul
+532,rock
+533,pop rock
+533,alternative rock
+534,hip hop
+534,rap
+535,pop rock
+536,synth pop
+536,pop rock
+537,pop rock
+537,r&b
+537,pop
+538,trip hop
+538,electronic
+538,electronica
+539,pop rock
+539,indie rock
+540,pop rock
+540,post punk
+541,pop rock
+541,industrial rock
+541,electronic
+541,experimental rock
+542,pop rock
+542,indie rock
+543,pop rock
+543,art rock
+544,pop rock
+544,hard rock
+544,glam rock
+544,garage rock
+545,pop rock
+545,post rock
+546,pop rock
+546,indie rock
+547,pop rock
+548,pop rock
+548,indie rock
+548,psychedelic rock
+548,progressive rock
+549,experimental
+549,psychedelic rock
+549,metal
+550,pop rock
+550,rock
+551,pop rock
+551,thrash metal
+552,pop rock
+552,indie pop
+552,synth pop
+552,electropop
+552,alternative dance
+553,electronic
+554,soul
+554,r&b
+555,pop rock
+555,alternative rock
+556,pop rock
+556,indie rock
+556,art punk
+557,post metal
+557,indie folk
+557,ambient music
+557,pop rock
+557,electronic music
+557,spoken word
+558,pop rock
+558,pop
+558,jazz
+558,hip hop
+558,rock
+559,pop rock
+559,alternative pop
+560,pop rock
+561,hip hop
+561,soul
+561,r&b
+561,rap
+562,country
+563,pop rock
+563,alternative rock
+564,jazz
+565,southern rock
+565,country
+565,country rock
+566,pop rock
+566,art rock
+566,experimental rock
+566,jazz
+567,pop rock
+567,lo fi
+567,garage rock
+568,pop rock
+568,indie folk
+569,power pop
+569,electropop
+569,soul
+569,pop
+570,hip hop
+570,rap
+571,hip hop
+571,rap
+572,alternative metal
+572,heavy metal
+573,pop rock
+573,alternative rock
+573,indie rock
+574,alternative rock
+574,psychedelic rock
+574,rap
+574,post grunge
+575,hip hop
+575,soul
+575,r&b
+575,funk
+576,pop rock
+576,rock
+576,r&b
+576,soul
+577,art pop
+577,pop rock
+577,dance pop
+577,synthpop
+578,pop rock
+578,new wave
+579,hip hop
+579,r&b
+580,pop rock
+580,country pop
+580,pop
+581,alternative rock
+581,britpop
+582,r&b
+583,hip hop
+583,rap
+584,hip hop
+584,rap
+585,hip hop
+585,r&b
+586,electropop
+586,dream pop
+586,pop
+587,soul
+587,na
+587,r&b
+587,electronica
+588,country
+588,country pop
+589,pop rock
+589,heavy metal
+590,rock
+591,pop rock
+591,soul
+591,r&b
+591,pop
+592,hip hop
+592,rap
+593,new age
+593,celtic
+594,soundtrack
+594,alternative rock
+595,pop rock
+595,pop
+596,pop rock
+596,alternative rock
+596,progressive rock
+596,funk rock
+597,experimental
+597,electronic
+598,experimental hip hop
+598,r&b
+598,alternative r&b
+599,pop rock
+599,pop
+600,pop
+601,soul
+601,r&b
+601,rap
+601,funk
+602,hip hop
+602,r&b
+602,rap
+603,pop rock
+603,rock
+604,pop rock
+605,r&b
+605,pop
+606,christmas
+606,holiday
+606,pop
+607,synth pop
+607,alternative indie rock
+608,hip hop
+608,rap
+609,pop rock
+609,blues rock
+609,afro cuban
+610,electronic
+611,soul
+611,trip hop
+611,r&b
+611,electronica
+612,soul
+612,r&b
+612,pop
+613,pop rock
+613,indie pop
+614,r&b
+614,pop
+615,electronic
+615,avant garde
+615,classical
+616,pop rock
+616,electropop
+617,pop rock
+617,country
+618,soul music
+618,blues
+618,gospel
+618,funk
+618,country
+618,folk
+618,rock
+619,pop rock
+619,alternative rock
+619,trip hop
+619,post industrial
+620,pop rock
+620,rock
+621,americana
+621,bluegrass
+622,southern rock
+622,pop rock
+623,alternative rock
+623,experimental rock
+623,neo psychedelia
+623,alternative r&b
+623,pop
+624,pop rock
+624,hard rock
+625,pop rock
+625,baroque pop
+625,avant garde
+625,indie folk
+626,pop rock
+626,post rock
+627,country
+628,pop punk
+628,pop rock
+628,pop
+629,pop rock
+629,rock
+630,pop rock
+630,dream pop
+631,alternative rock
+631,electronica
+631,electronic
+631,blues rock
+631,acoustic music
+632,pop rock
+632,pop
+633,pop rock
+633,dream pop
+633,experimental rock
+634,progressive rock
+634,emo
+635,new wave
+635,pop rock
+635,indie pop
+635,synthpop
+635,chillwave
+636,pop
+637,electronic
+638,hip hop
+638,rap
+639,west coast hip hop
+639,gangsta rap
+639,g funk
+639,rap
+640,electronic
+641,pop rock
+641,indie folk
+642,pop rock
+643,soul
+643,breakbeat
+643,electronic
+643,drum and bass
+644,pop rock
+644,indie rock
+644,post punk
+645,pop rock
+645,synthpop
+646,alternative rock
+646,singer songwriter
+647,country
+648,pop
+649,pop rock
+649,indie rock
+650,house
+650,electronic
+651,hip hop
+651,rap
+652,west coast hip hop
+652,gangsta rap
+652,g funk
+652,rap
+653,dark wave
+653,pop rock
+653,post punk revival
+653,synthpop
+654,pop rock
+654,alternative rock
+654,neo psychedelia
+655,post metal
+655,pop rock
+655,black metal
+655,blackgaze
+656,pop rock
+656,alternative rock
+657,r&b
+657,pop
+658,electronic
+659,house
+659,pop rock
+659,electronic dance
+660,experimental
+660,alternative country
+661,pop rock
+661,heavy metal
+662,pop rock
+662,hard rock
+662,stoner rock
+663,death metal
+663,melodic death metal
+664,na
+664,synthpop
+665,techno
+665,electronic
+665,electroclash
+665,synthpop
+665,electropunk
+665,electro house
+666,pop rock
+666,alternative rock
+666,dance rock
+666,synthpop
+666,alternative dance
+667,baroque pop
+667,art rock
+667,electronic
+668,pop rock
+668,indie rock
+669,na
+669,dream pop
+670,house
+670,deep house
+670,electronic
+671,pop rock
+672,pop rock
+672,alternative rock
+672,blues rock
+672,garage rock
+673,trap
+673,r&b
+673,pop rap
+673,hip hop
+673,rap
+674,new wave
+674,pop rock
+674,alternative rock
+674,synthpop
+675,pop rock
+675,alternative rock
+675,shoegazing
+676,pop rock
+677,folk rock
+677,na
+677,hard rock
+677,psychedelic rock
+678,gothic rock
+678,alternative indie rock
+678,doom metal
+679,math rock
+679,electronic
+679,experimental rock
+679,instrumental rock
+680,reggae
+680,blues
+680,pop rock
+680,rock and roll
+680,country
+680,rock
+681,progressive rock
+681,jazz
+682,pop rock
+682,new wave
+682,indie rock
+682,synthpop
+683,rock
+683,grunge
+684,pop punk
+684,indie rock
+684,pop rock
+684,alternative rock
+684,emo
+685,hip hop
+685,rap
+686,pop rock
+686,post rock
+687,pop rock
+687,alternative
+687,pop
+688,hip hop
+688,rap
+689,pop rock
+689,indie rock
+689,punk rock
+690,pop rock
+690,psychedelic pop
+691,pop rock
+691,rock
+692,pop rock
+692,metalcore
+693,pop rock
+693,indie rock
+694,folk
+694,country
+695,dance pop
+695,electronic
+695,soul
+695,pop
+695,house
+696,pop rock
+696,extreme metal
+697,pop rock
+697,new wave
+697,funk
+697,pop
+698,indie rock
+698,pop rock
+698,slowcore
+698,dream pop
+699,pop rock
+699,rock
+700,pop rock
+700,indie rock
+700,garage rock revival
+701,pop rock
+701,thrash metal
+702,pop rock
+702,chamber pop
+703,electronica
+703,pbr&b
+703,soul
+703,r&b
+703,pop
+704,pop punk
+704,pop rock
+704,alternative rock
+704,metalcore
+704,post hardcore
+704,alternative metal
+704,electronic rock
+705,hip hop
+705,rap
+706,pop rock
+706,hard rock
+707,rock
+707,na
+707,funk
+708,pop rock
+708,alternative rock
+708,post punk
+709,pop rock
+709,heavy metal
+710,pop rock
+710,electronic rock
+711,pop punk
+711,pop rock
+712,hip hop
+712,rap
+713,alternative hip hop
+713,rap
+714,folk
+714,pop rock
+715,pop rock
+715,indie rock
+715,progressive rock
+716,rap
+717,rock
+717,r&b
+718,pop
+719,hip hop
+719,trap
+719,rap
+720,pop rock
+721,pop rock
+722,pop rock
+722,rock
+723,pop rock
+724,country
+725,hip hop
+725,trap
+725,rap
+726,synth pop
+726,pop rock
+727,pop rock
+728,pop rock
+728,post punk revival
+728,indie rock
+729,dark wave
+729,electronic
+729,gothic rock
+730,adult contemporary
+731,pop rock
+732,pop rock
+733,synth pop
+733,indie electronic
+733,electronic
+733,experimental
+734,psychedelic funk
+734,r&b
+734,pop
+735,dance
+736,pop rock
+736,post rock
+737,new wave
+737,art rock
+737,electronic
+737,synth pop
+737,post punk
+737,dance punk
+738,synth pop
+738,pop rock
+739,pop rock
+740,pop rock
+740,americana
+740,neo psychedelia
+740,synth pop
+740,heartland rock
+741,hard rock
+741,pop rock
+741,dance rock
+741,boogie rock
+741,stoner rock
+742,pop rock
+743,pop rock
+744,pop rock
+745,pop
+746,rap
+747,hip hop
+747,trap
+747,rap
+748,pop rock
+749,pop rock
+750,pop rock
+750,alternative rock
+751,indie rock
+751,rap
+752,na
+752,art rock
+753,folk
+753,americana
+753,country
+753,rock
+754,pop rock
+754,rock
+754,country
+755,pop rock
+755,garage rock
+756,pop rock
+756,heavy metal
+757,americana
+757,country
+758,pop rock
+758,post punk
+759,pop rock
+759,indie rock
+760,pop rock
+761,pop rock
+762,hip hop
+762,rap
+763,southern rock
+763,americana
+763,country
+763,southern soul
+764,pop rock
+764,industrial
+765,pop rock
+766,pop rock
+767,pop rock
+768,na
+768,shibuya kei
+769,pop rock
+769,indie rock
+770,pop rock
+771,grime
+771,rap
+771,british hip hop
+772,hip hop
+772,rap
+773,pop rock
+773,alternative rock
+773,indie rock
+774,electronic
+775,pop rock
+775,experimental pop
+775,lo fi
+776,hip hop
+776,rap
+777,pop rock
+777,alternative rock
+778,hip hop
+778,trap
+778,rap
+779,pop rock
+779,baroque pop
+779,indie rock
+780,pop rock
+781,pop rock
+781,rock
+782,reggae
+783,hip hop
+783,rap
+784,pop rock
+784,alternative metal
+785,pop rock
+786,hip hop
+786,rap
+787,soul
+787,r&b
+788,pop rock
+788,dream pop
+788,indie rock
+789,pop rock
+789,electropop
+789,alternative pop
+790,electronic
+791,pop rock
+791,rhythm and blues
+791,soul
+792,pop rock
+792,psychedelic rock
+793,pop rock
+794,pop rock
+794,post punk
+794,psychedelic soul
+794,gospel
+795,pop rock
+795,psychedelic rock
+795,acid rock
+795,krautrock
+795,progressive rock
+796,hip hop
+796,rap
+797,pop rock
+797,rock
+798,experimental pop
+798,electronic
+799,pop rock
+799,ambient
+799,electronica
+800,hip hop
+800,trap
+800,r&b
+800,rap
+801,pop rock
+801,rock
+802,pop rock
+802,indie folk
+803,southern rock
+803,pop rock
+803,pop
+804,pop rock
+804,alternative rock
+804,shoegazing
+805,pop rock
+805,alternative country
+805,americana
+806,pop rock
+807,electronic
+807,synthwave
+808,pop rock
+808,alternative pop
+809,pop rock
+809,indie pop
+809,surf rock
+810,hip hop
+810,rap
+811,electropop
+811,electronic
+812,pop rock
+812,hard rock
+812,power pop
+813,pop rock
+813,psychedelic rock
+813,progressive rock
+813,acid rock
+814,hip hop
+814,rap
+815,trap
+815,country
+815,r&b
+815,hip hop
+815,rap
+816,pop rock
+817,electronic
+817,electronica
+818,pop rock
+818,slowcore
+818,ambient pop
+818,dream pop
+818,shoegaze
+819,pop rock
+819,dream pop
+819,trip hop
+820,electronic
+821,pop rock
+821,rock and roll
+822,pop rock
+823,pop rock
+824,pop rock
+824,dance pop
+825,pop rock
+825,progressive rock
+826,pop rock
+827,rock
+827,country
+827,pop
+828,neo soul
+828,r&b
+828,alternative r&b
+829,pop rock
+829,punk rock
+830,southern rock
+830,pop rock
+830,hard rock
+830,blues rock
+831,folk
+831,indie rock
+831,folk rock
+832,pop rock
+832,technical death metal
+833,electropop
+833,dance pop
+833,pop
+834,pop rock
+834,indie rock
+835,pop rock
+835,pop
+836,pop rock
+836,rock
+837,pop rock
+837,rock
+837,pop
+838,alternative indie rock
+839,pop rock
+840,synth pop
+840,pop rock
+840,indie electronic
+841,pop rock
+841,indie pop
+841,r&b
+841,art pop
+842,pop rock
+843,jazz
+844,alternative indie rock
+845,pop rock
+845,blues rock
+845,noise rock
+845,punk rock
+846,pop rock
+847,r&b
+848,pop rock
+848,madchester
+848,britpop
+849,folk
+850,pop rock
+850,hard rock
+850,heavy metal
+851,hip hop
+851,rap
+852,r&b
+853,synth pop
+853,electronica
+854,pop rock
+855,pop rock
+855,indie rock
+855,indie folk
+856,pop rock
+856,electropop
+856,pop
+857,pop rock
+857,post rock
+858,footwork
+858,electronic
+858,electronica
+859,pop rock
+860,pop rock
+860,dance punk
+861,hip hop
+861,r&b
+862,electronic
+863,speed metal
+863,pop rock
+863,power metal
+864,gangsta rap
+864,west coast hip hop
+864,g funk
+864,rap
+865,pop rock
+866,pop rock
+867,garage rock
+867,pop rock
+867,indie rock
+867,queercore
+868,electronic
+869,synth pop
+869,pop rock
+869,rock
+870,pop rock
+870,soft rock
+871,country
+872,new wave
+872,pop rock
+872,power pop
+872,synth pop
+872,pop
+873,afrobeat
+873,pop rock
+873,dancehall
+873,british hip hop
+874,folk rock
+874,rock
+875,hip hop
+875,rap
+876,new wave
+876,pop rock
+876,alternative rock
+876,post punk revival
+877,pop rock
+877,psychedelic rock
+877,neo psychedelia
+878,pop rock
+878,post hardcore
+879,pop rock
+879,alternative rock
+880,pop rock
+880,dream pop
+880,shoegazing
+881,pop rock
+881,chamber pop
+881,art pop
+882,pop rock
+882,psychedelic rock
+882,indie rock
+883,pop rock
+883,space rock
+883,electronica
+883,neo psychedelia
+883,electronic rock
+884,country
+885,christmas
+885,holiday
+886,experimental
+886,electronic
+887,pop rock
+887,folktronica
+888,electronic
+889,jazz
+890,hip hop
+890,rap
+891,hip hop
+891,rap
+892,experimental
+893,experimental
+893,krautrock
+894,blues
+895,pop rock
+896,pop rock
+896,glam rock
+896,soft rock
+896,indie rock
+897,pop rock
+897,electronica
+897,folk pop
+898,pop rock
+899,alternative hip hop
+899,trip hop
+899,electronic
+899,r&b
+900,pop rock
+900,alternative rock
+901,pop rock
+902,country
+903,r&b
+904,pop rock
+904,rock
+905,pop rock
+905,hardcore punk
+906,hip hop
+906,rap
+907,pop rock
+907,rock
+908,ambient
+908,electronic
+909,pop rock
+909,psychedelic rock
+909,country rock
+910,pop rock
+910,soft rock
+910,soul
+911,pop rock
+911,rock
+912,americana
+912,country
+913,pop rock
+913,rock
+914,pop rock
+914,shoegazing
+914,noise pop
+914,post punk revival
+915,indie rock
+915,rap metal
+915,alternative rock
+915,electronic music
+915,pop
+916,pop rock
+916,metalcore
+917,pop rock
+918,pop rock
+918,art rock
+918,progressive rock
+919,pop rock
+919,rock
+920,pop rock
+920,alternative rock
+921,country
+922,synth pop
+922,soul
+922,electronic
+922,downtempo
+923,electronic
+924,irish
+925,hip hop
+925,rap
+926,pop rock
+926,rock
+927,hip hop
+927,rap
+927,cloud rap
+928,folk rock
+928,pop rock
+928,indie rock
+929,pop rock
+929,noise pop
+930,synth pop
+930,new wave
+930,indie pop
+930,alternative indie rock
+931,art punk
+931,pop rock
+931,alternative rock
+931,post punk
+932,indie rock
+932,indie folk
+932,pop rock
+932,soft rock
+932,baroque pop
+933,pop rock
+933,indie rock
+934,freak folk
+934,country blues
+934,pop rock
+934,psychedelic folk
+934,folk
+935,pop rock
+936,electronic
+937,hip hop
+937,rap
+938,pop rock
+938,indie rock
+939,pop rock
+939,rock
+940,vocal
+941,synth pop
+941,pop rock
+941,new wave
+941,edm
+942,pop rock
+943,synth pop
+943,electropop
+943,pop
+944,pop rock
+944,alternative rock
+944,indie rock
+945,pop rock
+945,indie rock
+946,electronic
+947,pop rock
+947,blues rock
+947,power pop
+947,garage rock
+948,electronic
+948,pop
+949,pop punk
+949,electropop
+949,space rock
+949,alternative indie rock
+950,pop punk
+950,pop rock
+950,punk rock
+951,pop rock
+951,electro
+952,pop rock
+952,post rock
+953,jazz
+954,hip hop
+954,rap
+955,country
+956,folk
+956,pop rock
+956,rock
+957,synth pop
+957,electronic
+957,electroclash
+958,pop rock
+958,progressive metal
+959,pop rock
+959,baroque pop
+960,folk
+960,traditional pop
+961,pop rock
+962,pop rock
+963,pop rock
+964,disco
+964,r&b
+964,funk
+965,pop rock
+965,indie pop
+965,r&b
+966,thrash metal
+966,groove metal
+966,rap metal
+967,tex mex
+967,country
+967,bluegrass
+968,pop rock
+968,alternative rock
+969,pop rock
+969,indie rock
+970,pop rock
+971,pop rock
+971,horror punk
+971,punk rock
+972,pop rock
+972,slowcore
+972,indie folk
+973,blues
+973,rock
+973,soul
+973,gospel
+974,pop rock
+974,doom metal
+975,synth pop
+975,electronic
+976,pop rock
+976,post punk
+976,indie rock
+977,hip hop
+977,rap
+978,pop rock
+979,hip hop
+979,rap
+980,pop rock
+980,indie rock
+980,emo
+981,pop rock
+981,electronic
+982,pop rock
+982,indie rock
+983,americana
+984,indie rock
+984,jangle pop
+984,pop rock
+984,psychedelic rock
+984,dream pop
+985,pop rock
+985,death metal
+986,hip hop
+986,rap
+987,hip hop
+987,rap
+987,pop
+988,pop
+989,folk rock
+989,rock
+990,pop rock
+990,americana
+990,country rock
+990,folk
+990,roots rock
+991,pop rock
+991,indie pop
+992,pop rock
+992,roots rock
+992,americana
+993,folk
+993,alternative rock
+993,folk rock
+994,pop rock
+994,indie pop
+995,folk
+995,americana
+996,pop rock
+996,metalcore
+996,melodic death metal
+997,pop rock
+997,bedroom pop
+998,pop rock
+998,indie pop
+998,indie rock
+999,pop rock
+1000,pop rock
+1001,singer songwriter
+1002,pop rock
+1003,alternative
+1004,pop rock
+1005,pop
+1006,alternative indie rock
+1007,pop rock
+1008,pop rock
+1009,pop
+1010,pop rock
+1011,electronic
+1012,avant garde
+1013,rap
+1014,international
+1015,pop rock
+1016,rap
+1017,pop rock
+1018,pop
+1019,pop rock
+1020,pop rock
+1021,pop rock
+1022,pop rock
+1023,pop rock
+1024,pop rock
+1025,folk
+1026,electronic
+1027,rap
+1028,electronic
+1029,pop rock
+1030,pop rock
+1031,folk rock
+1032,pop rock
+1033,pop rock
+1034,pop rock
+1035,pop rock
+1036,pop rock
+1037,pop rock
+1038,international
+1039,pop rock
+1040,classical
+1041,punk
+1042,r&b
+1043,electronic
+1044,pop rock
+1045,pop rock
+1046,pop rock
+1047,rap
+1048,pop rock
+1049,pop rock
+1050,r&b
+1051,pop rock
+1052,pop rock
+1053,pop rock
+1054,pop rock
+1055,pop rock
+1056,folk
+1057,pop rock
+1058,pop rock
+1059,rap
+1060,adult contemporary
+1061,pop rock
+1062,pop rock
+1063,pop rock
+1064,pop rock
+1065,pop rock
+1066,folk
+1067,pop rock
+1068,rap
+1069,electronic
+1070,pop rock
+1071,folk
+1072,pop rock
+1073,electronic
+1074,pop rock
+1075,metal
+1076,pop rock
+1077,pop rock
+1078,pop rock
+1079,country
+1080,electronic
+1081,pop rock
+1082,folk
+1083,electronic
+1084,pop rock
+1085,electronic
+1086,pop rock
+1087,pop rock
+1088,electronic
+1089,pop rock
+1090,r&b
+1091,singer songwriter
+1092,electronic
+1093,pop rock
+1094,folk
+1095,pop rock
+1096,pop rock
+1097,grunge
+1098,pop rock
+1099,pop rock
+1100,electronic
+1101,pop rock
+1102,pop rock
+1103,pop rock
+1104,pop rock
+1105,r&b
+1106,pop rock
+1107,pop rock
+1108,r&b
+1109,jazz
+1110,pop rock
+1111,pop rock
+1112,electronic
+1113,electronic
+1114,pop rock
+1115,pop rock
+1116,pop rock
+1117,electronic
+1118,pop rock
+1119,pop rock
+1120,electronic
+1121,pop rock
+1122,pop rock
+1123,folk
+1124,electronic
+1125,heavy metal
+1126,pop rock
+1127,pop rock
+1128,pop rock
+1129,r&b
+1130,electronic
+1131,rap
+1132,pop rock
+1133,electronic
+1134,classical
+1135,rap
+1136,rap
+1137,pop rock
+1138,electronic
+1139,pop rock
+1140,pop rock
+1141,jazz
+1142,pop rock
+1143,pop rock
+1144,rap
+1145,jazz
+1146,pop rock
+1147,pop rock
+1148,pop rock
+1149,folk
+1150,pop rock
+1151,pop rock
+1152,rap
+1153,electronic
+1154,folk
+1155,pop rock
+1156,pop rock
+1157,avant garde
+1158,pop rock
+1159,pop rock
+1160,folk
+1161,pop rock
+1162,pop rock
+1163,pop rock
+1164,pop rock
+1165,pop rock
+1166,pop rock
+1167,pop rock
+1168,pop rock
+1169,heavy metal
+1170,country
+1171,pop rock
+1172,pop rock
+1173,pop rock
+1174,electronic
+1175,pop rock
+1176,pop rock
+1177,jazz
+1178,pop rock
+1179,pop rock
+1180,pop rock
+1181,pop rock
+1182,r&b
+1183,blues
+1184,jazz
+1185,pop rock
+1186,electronic
+1187,electronic
+1188,electronic
+1189,electronic
+1190,pop rock
+1191,electronic
+1192,pop rock
+1193,pop rock
+1194,folk
+1195,pop rock
+1196,pop rock
+1197,jazz
+1198,folk
+1199,pop rock
+1200,electronic
+1201,pop rock
+1202,pop rock
+1203,pop rock
+1204,electronic
+1205,pop rock
+1206,electronic
+1207,britpop
+1208,electronic
+1209,jazz
+1210,country
+1211,pop rock
+1212,pop rock
+1213,pop rock
+1214,pop rock
+1215,pop rock
+1216,folk
+1217,pop rock
+1218,electronic
+1219,pop rock
+1220,international
+1221,alternative indie rock
+1222,pop rock
+1223,pop rock
+1224,emo
+1225,pop rock
+1226,folk
+1227,pop rock
+1228,new age
+1229,folk
+1230,pop rock
+1231,bluegrass
+1232,pop rock
+1233,pop rock
+1234,electronic
+1235,pop rock
+1236,pop rock
+1237,pop rock
+1238,pop rock
+1239,pop rock
+1240,rap
+1241,bluegrass
+1242,r&b
+1243,pop rock
+1244,electronic
+1245,alternative
+1246,pop rock
+1247,pop rock
+1248,pop rock
+1249,international
+1250,pop rock
+1251,pop rock
+1252,pop rock
+1253,pop rock
+1254,r&b
+1255,electronic
+1256,pop rock
+1257,pop rock
+1258,rap
+1259,r&b
+1260,international
+1261,pop rock
+1262,folk
+1263,pop rock
+1264,indie
+1265,electronic
+1266,pop rock
+1267,pop rock
+1268,pop rock
+1269,pop rock
+1270,pop rock
+1271,pop rock
+1272,electronic
+1273,pop rock
+1274,pop rock
+1275,pop rock
+1276,pop rock
+1277,pop rock
+1278,pop rock
+1279,electronic
+1280,pop rock
+1281,pop rock
+1282,jazz
+1283,electronic
+1284,pop rock
+1285,pop rock
+1286,avant garde
+1287,rap
+1288,pop rock
+1289,pop rock
+1290,pop rock
+1291,pop rock
+1292,pop rock
+1293,electronic
+1294,rap
+1295,pop rock
+1296,blues
+1297,pop rock
+1298,alternative pop rock
+1299,pop rock
+1300,pop rock
+1301,pop rock
+1302,pop rock
+1303,folk
+1304,pop rock
+1305,pop rock
+1306,pop rock
+1307,jazz
+1308,jazz
+1309,electronic
+1310,rap
+1311,electronic
+1312,pop rock
+1313,pop rock
+1314,rap
+1315,pop rock
+1316,electronic
+1317,pop rock
+1318,jazz
+1319,rap
+1320,electronic
+1321,country
+1322,pop rock
+1323,pop rock
+1324,americana
+1325,pop rock
+1326,electronic
+1327,rap
+1328,folk
+1329,pop rock
+1330,jazz
+1331,emo
+1332,pop rock
+1333,ambient
+1334,pop rock
+1335,country
+1336,pop rock
+1337,pop rock
+1338,alternative indie rock
+1339,folk
+1340,pop rock
+1341,stage & screen
+1342,pop rock
+1343,pop rock
+1344,pop rock
+1345,pop rock
+1346,r&b
+1347,rap
+1348,pop rock
+1349,pop rock
+1350,pop rock
+1351,pop rock
+1352,pop rock
+1353,pop rock
+1354,folk
+1355,pop rock
+1356,electronic
+1357,r&b
+1358,r&b
+1359,pop rock
+1360,electronic
+1361,pop rock
+1362,pop rock
+1363,country
+1364,pop rock
+1365,folk
+1366,rap
+1367,electronic
+1368,pop rock
+1369,pop rock
+1370,electronic
+1371,electronic
+1372,electronic
+1373,reggae
+1374,avant garde
+1375,r&b
+1376,pop rock
+1377,pop rock
+1378,electronic
+1379,pop rock
+1380,folk
+1381,pop rock
+1382,pop rock
+1383,electronic
+1384,rap
+1385,pop rock
+1386,rap
+1387,rap
+1388,pop rock
+1389,pop rock
+1390,folk
+1391,pop rock
+1392,pop rock
+1393,pop rock
+1394,pop rock
+1395,pop rock
+1396,pop rock
+1397,pop rock
+1398,jazz
+1399,pop rock
+1400,pop rock
+1401,pop rock
+1402,pop rock
+1403,pop rock
+1404,pop rock
+1405,electronic
+1406,electronic
+1407,pop rock
+1408,pop rock
+1409,pop rock
+1410,pop rock
+1411,pop rock
+1412,international
+1413,pop rock
+1414,pop rock
+1415,pop rock
+1416,jazz
+1417,pop rock
+1418,pop rock
+1419,pop rock
+1420,pop rock
+1421,pop rock
+1422,pop rock
+1423,electronic
+1424,electronic
+1425,pop rock
+1426,electronic
+1427,pop rock
+1428,pop rock
+1429,soundtracks
+1430,r&b
+1431,pop rock
+1432,pop rock
+1433,pop rock
+1434,pop rock
+1435,pop rock
+1436,pop rock
+1437,electronic
+1438,pop rock
+1439,pop rock
+1440,pop rock
+1441,pop rock
+1442,pop rock
+1443,pop rock
+1444,pop rock
+1445,electronic
+1446,pop rock
+1447,country
+1448,pop rock
+1449,pop rock
+1450,electronic
+1451,pop rock
+1452,folk
+1453,avant garde
+1454,electronic
+1455,international
+1456,pop rock
+1457,electronic
+1458,international
+1459,jazz
+1460,pop rock
+1461,electronic
+1462,pop rock
+1463,pop rock
+1464,pop rock
+1465,electronic
+1466,pop rock
+1467,pop rock
+1468,pop rock
+1469,classical
+1470,pop rock
+1471,pop rock
+1472,pop rock
+1473,pop rock
+1474,folk
+1475,pop rock
+1476,pop rock
+1477,pop rock
+1478,pop rock
+1479,electronic
+1480,folk
+1481,pop rock
+1482,pop rock
+1483,pop rock
+1484,pop rock
+1485,pop rock
+1486,pop rock
+1487,pop rock
+1488,international
+1489,pop rock
+1490,pop rock
+1491,electronic
+1492,jazz
+1493,singer songwriter
+1494,folk
+1495,pop rock
+1496,electronic
+1497,pop rock
+1498,hard rock
+1499,electronic
+1500,rap
+1501,electronic
+1502,jazz
+1503,jazz
+1504,pop rock
+1505,soundtrack
+1506,pop rock
+1507,country
+1508,pop rock
+1509,pop rock
+1510,r&b
+1511,pop rock
+1512,pop rock
+1513,pop rock
+1514,pop rock
+1515,pop rock
+1516,pop rock
+1517,gospel
+1518,international
+1519,pop rock
+1520,pop rock
+1521,folk
+1522,avant garde
+1523,pop rock
+1524,americana
+1525,international
+1526,electronic
+1527,pop rock
+1528,pop rock
+1529,pop rock
+1530,pop rock
+1531,pop rock
+1532,pop rock
+1533,pop rock
+1534,singer songwriter
+1535,country
+1536,pop rock
+1537,pop rock
+1538,pop rock
+1539,pop rock
+1540,pop rock
+1541,pop rock
+1542,pop rock
+1543,pop rock
+1544,pop rock
+1545,pop rock
+1546,jazz
+1547,pop rock
+1548,pop rock
+1549,pop rock
+1550,pop rock
+1551,pop rock
+1552,pop rock
+1553,pop rock
+1554,electronic
+1555,blues
+1556,pop rock
+1557,singer songwriter
+1558,pop rock
+1559,pop rock
+1560,pop rock
+1561,electronic
+1562,jazz
+1563,pop rock
+1564,pop rock
+1565,alternative indie rock
+1566,pop rock
+1567,pop rock
+1568,pop rock
+1569,pop rock
+1570,jazz
+1571,blues
+1572,electronic
+1573,pop rock
+1574,adult alternative pop rock
+1575,pop rock
+1576,electronic
+1577,jazz
+1578,pop rock
+1579,electronic
+1580,pop rock
+1581,country
+1582,folk
+1583,rap
+1584,pop rock
+1585,avant garde
+1586,country
+1587,electronic
+1588,country
+1589,soundtracks
+1590,pop rock
+1591,folk
+1592,alt country
+1593,country
+1594,pop rock
+1595,pop rock
+1596,international
+1597,pop rock
+1598,pop rock
+1599,pop rock
+1600,pop rock
+1601,pop rock
+1602,international
+1603,pop rock
+1604,pop rock
+1605,international
+1606,international
+1607,pop rock
+1608,pop rock
+1609,pop rock
+1610,pop rock
+1611,experimental
+1612,folk
+1613,pop rock
+1614,pop rock
+1615,pop
+1616,electronic
+1617,pop rock
+1618,pop rock
+1619,electronic
+1620,pop rock
+1621,pop rock
+1622,electronic
+1623,pop rock
+1624,pop rock
+1625,electronic
+1626,pop rock
+1627,pop rock
+1628,pop rock
+1629,pop rock
+1630,pop rock
+1631,pop rock
+1632,electronic
+1633,pop rock
+1634,pop rock
+1635,pop rock
+1636,electronic
+1637,country
+1638,country
+1639,electronic
+1640,rap
+1641,electronic
+1642,pop rock
+1643,classical
+1644,electronic
+1645,electronic
+1646,pop rock
+1647,pop rock
+1648,pop rock
+1649,pop rock
+1650,electronic
+1651,electronic
+1652,rap
+1653,electronic
+1654,pop rock
+1655,pop rock
+1656,country
+1657,latin
+1658,pop
+1659,pop rock
+1660,pop rock
+1661,pop rock
+1662,pop rock
+1663,pop rock
+1664,pop rock
+1665,pop rock
+1666,pop rock
+1667,folk
+1668,electronic
+1669,country
+1670,pop rock
+1671,electronic
+1672,country
+1673,pop rock
+1674,electronic
+1675,electronic
+1676,pop rock
+1677,pop rock
+1678,folk
+1679,pop rock
+1680,pop rock
+1681,pop rock
+1682,electronic
+1683,emo
+1684,pop rock
+1685,pop rock
+1686,pop rock
+1687,country
+1688,electronic
+1689,pop rock
+1690,pop rock
+1691,pop rock
+1692,pop rock
+1693,pop rock
+1694,pop rock
+1695,r&b
+1696,pop rock
+1697,rap
+1698,pop rock
+1699,pop rock
+1700,folk
+1701,electronic
+1702,pop rock
+1703,country
+1704,pop rock
+1705,electronic
+1706,electronic
+1707,pop rock
+1708,pop rock
+1709,ambient
+1710,pop rock
+1711,pop rock
+1712,pop rock
+1713,electronic
+1714,rap
+1715,pop rock
+1716,vocal
+1717,electronic
+1718,electronic
+1719,pop rock
+1720,pop rock
+1721,international
+1722,pop rock
+1723,pop rock
+1724,pop rock
+1725,pop rock
+1726,soul
+1727,pop rock
+1728,pop rock
+1729,pop rock
+1730,pop rock
+1731,pop rock
+1732,americana
+1733,pop rock
+1734,pop rock
+1735,pop rock
+1736,pop rock
+1737,electronic
+1738,folk
+1739,pop rock
+1740,pop rock
+1741,pop rock
+1742,pop rock
+1743,classical
+1744,pop rock
+1745,electronic
+1746,electronic
+1747,pop rock
+1748,pop rock
+1749,pop rock
+1750,pop rock
+1751,pop rock
+1752,pop rock
+1753,pop rock
+1754,pop rock
+1755,pop rock
+1756,electronic
+1757,r&b
+1758,pop rock
+1759,pop rock
+1760,rap
+1761,pop rock
+1762,pop rock
+1763,electronic
+1764,pop rock
+1765,r&b
+1766,jazz
+1767,progressive bluegrass
+1768,electronic
+1769,jazz
+1770,pop rock
+1771,electronic
+1772,pop rock
+1773,pop rock
+1774,jazz
+1775,blues
+1776,pop rock
+1777,pop rock
+1778,electronic
+1779,pop rock
+1780,pop rock
+1781,pop rock
+1782,pop rock
+1783,pop rock
+1784,electronic
+1785,electronic
+1786,pop rock
+1787,pop rock
+1788,industrial
+1789,pop rock
+1790,pop rock
+1791,electronic
+1792,electronic
+1793,pop rock
+1794,pop rock
+1795,pop rock
+1796,pop rock
+1797,electronic
+1798,jazz
+1799,pop rock
+1800,pop rock
+1801,rap
+1802,rap
+1803,international
+1804,contemporary pop rock
+1805,rap
+1806,classical
+1807,electronic
+1808,jazz
+1809,pop rock
+1810,pop rock
+1811,punk
+1812,electronic
+1813,pop rock
+1814,pop rock
+1815,indie
+1816,pop rock
+1817,electronic
+1818,pop rock
+1819,electronic
+1820,rap
+1821,pop rock
+1822,electronic
+1823,folk
+1824,pop rock
+1825,pop rock
+1826,pop rock
+1827,electronic
+1828,jazz
+1829,electronic
+1830,electronic
+1831,electronic
+1832,experimental
+1833,electronic
+1834,electronic
+1835,pop rock
+1836,alternative pop rock
+1837,pop rock
+1838,r&b
+1839,jazz
+1840,electronic
+1841,pop rock
+1842,pop rock
+1843,pop rock
+1844,pop rock
+1845,pop rock
+1846,electronic
+1847,pop rock
+1848,pop rock
+1849,electronic
+1850,pop rock
+1851,folk
+1852,pop rock
+1853,electronic
+1854,r&b
+1855,pop rock
+1856,pop rock
+1857,pop rock
+1858,pop rock
+1859,pop rock
+1860,folk
+1861,electronic
+1862,pop rock
+1863,experimental
+1864,electronic
+1865,rap
+1866,pop rock
+1867,electronic
+1868,electronic
+1869,pop rock
+1870,pop rock
+1871,pop rock
+1872,pop rock
+1873,pop rock
+1874,holiday
+1875,classical
+1876,alternative indie rock
+1877,pop rock
+1878,rap
+1879,pop rock
+1880,pop rock
+1881,pop rock
+1882,electronic
+1883,pop rock
+1884,electronic
+1885,r&b
+1886,grunge
+1887,rap
+1888,pop rock
+1889,pop rock
+1890,alternative pop rock
+1891,pop rock
+1892,pop rock
+1893,electronic
+1894,experimental
+1895,pop rock
+1896,pop rock
+1897,pop rock
+1898,electronic
+1899,pop rock
+1900,electronic
+1901,r&b
+1902,r&b
+1903,electronic
+1904,electronic
+1905,electronic
+1906,electronic
+1907,pop rock
+1908,pop rock
+1909,electronic
+1910,electronic
+1911,electronic
+1912,pop rock
+1913,electronic
+1914,holiday
+1915,pop rock
+1916,pop rock
+1917,r&b
+1918,pop rock
+1919,pop rock
+1920,pop rock
+1921,pop rock
+1922,international
+1923,pop rock
+1924,pop rock
+1925,pop rock
+1926,classical
+1927,pop rock
+1928,singer songwriter
+1929,r&b
+1930,electronic
+1931,jazz
+1932,pop rock
+1933,pop rock
+1934,rap
+1935,electronic
+1936,pop rock
+1937,pop rock
+1938,pop rock
+1939,pop rock
+1940,electronic
+1941,pop rock
+1942,rap
+1943,pop rock
+1944,electronic
+1945,r&b
+1946,pop rock
+1947,electronic
+1948,pop rock
+1949,pop rock
+1950,electronic
+1951,pop rock
+1952,pop rock
+1953,electronic
+1954,folk
+1955,punk
+1956,pop rock
+1957,electronic
+1958,pop rock
+1959,pop rock
+1960,electronic
+1961,pop rock
+1962,pop rock
+1963,jazz
+1964,pop rock
+1965,alt country
+1966,pop
+1967,pop rock
+1968,pop rock
+1969,pop rock
+1970,pop rock
+1971,pop rock
+1972,jazz
+1973,pop rock
+1974,experimental
+1975,rap
+1976,country
+1977,folk
+1978,country
+1979,folk
+1980,pop rock
+1981,pop rock
+1982,pop rock
+1983,classical
+1984,pop rock
+1985,electronic
+1986,pop rock
+1987,pop rock
+1988,electronic
+1989,country
+1990,pop rock
+1991,jazz
+1992,electronic
+1993,pop rock
+1994,jazz
+1995,soundtracks
+1996,reggae
+1997,pop rock
+1998,pop rock
+1999,pop rock
+2000,pop rock
+2001,alternative pop rock
+2002,rap
+2003,pop rock
+2004,pop rock
+2005,pop rock
+2006,pop rock
+2007,metal
+2008,folk
+2009,electronic
+2010,electronic
+2011,r&b
+2012,electronic
+2013,electronic
+2014,pop rock
+2015,jazz
+2016,pop rock
+2017,pop rock
+2018,pop rock
+2019,pop rock
+2020,pop
+2021,rap
+2022,pop rock
+2023,pop rock
+2024,pop rock
+2025,pop rock
+2026,pop rock
+2027,pop rock
+2028,pop rock
+2029,pop rock
+2030,pop rock
+2031,electronic
+2032,electronic
+2033,experimental
+2034,jazz
+2035,pop rock
+2036,jazz
+2037,r&b
+2038,pop rock
+2039,classical
+2040,rap
+2041,pop rock
+2042,electronic
+2043,international
+2044,pop rock
+2045,bluegrass
+2046,pop rock
+2047,pop rock
+2048,electronic
+2049,country
+2050,pop rock
+2051,pop rock
+2052,pop rock
+2053,pop rock
+2054,pop rock
+2055,pop rock
+2056,electronic
+2057,pop rock
+2058,r&b
+2059,jazz instrument
+2060,pop rock
+2061,electronic
+2062,pop rock
+2063,pop rock
+2064,pop rock
+2065,punk
+2066,pop rock
+2067,pop rock
+2068,jazz
+2069,folk
+2070,rap
+2071,pop rock
+2072,pop rock
+2073,pop rock
+2074,pop rock
+2075,pop rock
+2076,jazz
+2077,electronic
+2078,r&b
+2079,folk
+2080,pop rock
+2081,reggae
+2082,pop rock
+2083,bluegrass
+2084,pop rock
+2085,electronic
+2086,pop rock
+2087,pop rock
+2088,pop rock
+2089,pop rock
+2090,rap
+2091,pop rock
+2092,electronic
+2093,pop rock
+2094,rap
+2095,rap
+2096,pop rock
+2097,pop rock
+2098,pop rock
+2099,pop rock
+2100,jazz
+2101,pop rock
+2102,pop rock
+2103,pop rock
+2104,pop rock
+2105,electronic
+2106,pop rock
+2107,pop rock
+2108,pop rock
+2109,pop rock
+2110,pop rock
+2111,pop rock
+2112,pop rock
+2113,pop rock
+2114,pop rock
+2115,electronic
+2116,pop rock
+2117,pop rock
+2118,pop rock
+2119,country
+2120,classical
+2121,emo
+2122,electronic
+2123,pop rock
+2124,pop rock
+2125,pop rock
+2126,pop rock
+2127,pop rock
+2128,pop rock
+2129,electronic
+2130,electronic
+2131,country
+2132,reggae
+2133,pop rock
+2134,pop rock
+2135,pop rock
+2136,pop rock
+2137,pop rock
+2138,pop rock
+2139,pop rock
+2140,rap
+2141,rap
+2142,pop rock
+2143,r&b
+2144,pop rock
+2145,electronic
+2146,pop rock
+2147,experimental
+2148,electronic
+2149,experimental
+2150,rap
+2151,pop rock
+2152,electronic
+2153,electronic
+2154,soundtracks
+2155,pop rock
+2156,pop rock
+2157,pop rock
+2158,pop rock
+2159,jazz
+2160,pop rock
+2161,electronic
+2162,pop rock
+2163,pop rock
+2164,electronic
+2165,pop rock
+2166,pop rock
+2167,country
+2168,country
+2169,pop rock
+2170,rap
+2171,electronic
+2172,pop rock
+2173,pop rock
+2174,pop rock
+2175,pop rock
+2176,pop rock
+2177,pop rock
+2178,pop rock
+2179,latin
+2180,pop rock
+2181,country
+2182,pop rock
+2183,pop rock
+2184,electronic
+2185,pop rock
+2186,pop rock
+2187,folk
+2188,electronic
+2189,electronic
+2190,electronic
+2191,pop rock
+2192,pop rock
+2193,pop rock
+2194,reggae
+2195,international
+2196,rap
+2197,electronic
+2198,r&b
+2199,pop rock
+2200,folk
+2201,pop rock
+2202,rap
+2203,r&b
+2204,pop rock
+2205,rap
+2206,pop rock
+2207,electronic
+2208,pop rock
+2209,jazz
+2210,electronic
+2211,electronic
+2212,pop rock
+2213,electronic
+2214,pop rock
+2215,pop rock
+2216,electronic
+2217,pop rock
+2218,pop rock
+2219,electronic
+2220,alternative indie rock
+2221,pop rock
+2222,folk
+2223,pop rock
+2224,electronic
+2225,pop rock
+2226,pop rock
+2227,pop rock
+2228,rap
+2229,country
+2230,pop rock
+2231,electronic
+2232,pop rock
+2233,electronic
+2234,pop rock
+2235,pop rock
+2236,pop rock
+2237,alternative indie rock
+2238,electronic
+2239,pop rock
+2240,pop rock
+2241,electronic
+2242,electronic
+2243,electronic
+2244,electronic
+2245,alternative pop rock
+2246,pop rock
+2247,pop rock
+2248,pop rock
+2249,rap
+2250,pop rock
+2251,pop rock
+2252,folk
+2253,pop rock
+2254,pop rock
+2255,pop rock
+2256,pop rock
+2257,pop rock
+2258,pop rock
+2259,pop rock
+2260,electronic
+2261,pop rock
+2262,pop rock
+2263,country
+2264,country
+2265,pop rock
+2266,electronic
+2267,pop rock
+2268,r&b
+2269,pop rock
+2270,pop rock
+2271,pop rock
+2272,pop rock
+2273,pop rock
+2274,pop rock
+2275,pop rock
+2276,electronic
+2277,jazz
+2278,electronic
+2279,pop rock
+2280,pop rock
+2281,pop rock
+2282,pop rock
+2283,pop rock
+2284,electronic
+2285,electronic
+2286,folk
+2287,rap
+2288,electronic
+2289,folk
+2290,jazz
+2291,r&b
+2292,alternative indie rock
+2293,pop rock
+2294,pop rock
+2295,pop rock
+2296,pop rock
+2297,pop rock
+2298,pop rock
+2299,pop rock
+2300,pop rock
+2301,pop rock
+2302,pop rock
+2303,pop rock
+2304,pop rock
+2305,pop rock
+2306,alternative pop rock
+2307,pop rock
+2308,r&b
+2309,pop rock
+2310,country
+2311,pop rock
+2312,r&b
+2313,pop rock
+2314,r&b
+2315,r&b
+2316,jazz
+2317,blues
+2318,pop rock
+2319,pop rock
+2320,pop rock
+2321,pop rock
+2322,electronic
+2323,pop rock
+2324,pop rock
+2325,pop rock
+2326,pop rock
+2327,pop rock
+2328,pop rock
+2329,electronic
+2330,electronic
+2331,electronic
+2332,pop rock
+2333,electronic
+2334,pop rock
+2335,country
+2336,electronic
+2337,pop rock
+2338,pop rock
+2339,pop rock
+2340,rap
+2341,country
+2342,pop rock
+2343,pop rock
+2344,pop rock
+2345,pop rock
+2346,pop rock
+2347,electronic
+2348,pop rock
+2349,alt country
+2350,r&b
+2351,pop rock
+2352,pop rock
+2353,pop rock
+2354,reggae
+2355,pop rock
+2356,electronic
+2357,pop rock
+2358,pop rock
+2359,pop rock
+2360,rap
+2361,pop rock
+2362,pop rock
+2363,pop rock
+2364,pop rock
+2365,electronic
+2366,pop rock
+2367,pop rock
+2368,country
+2369,electronic
+2370,pop rock
+2371,pop rock
+2372,pop rock
+2373,indie electronic
+2374,pop rock
+2375,heavy metal
+2376,pop rock
+2377,blues
+2378,folk rock
+2379,pop rock
+2380,electronic
+2381,pop rock
+2382,pop rock
+2383,pop rock
+2384,metal
+2385,pop rock
+2386,pop rock
+2387,pop rock
+2388,jazz
+2389,pop rock
+2390,folk
+2391,rap
+2392,pop rock
+2393,rap
+2394,pop rock
+2395,pop rock
+2396,pop rock
+2397,pop rock
+2398,adult alternative pop rock
+2399,pop rock
+2400,pop rock
+2401,blues
+2402,electronic
+2403,pop rock
+2404,pop rock
+2405,electronic
+2406,pop rock
+2407,rap
+2408,international
+2409,country
+2410,pop rock
+2411,pop rock
+2412,r&b
+2413,new age
+2414,pop rock
+2415,pop rock
+2416,pop rock
+2417,rap
+2418,pop rock
+2419,pop rock
+2420,pop rock
+2421,pop rock
+2422,electronic
+2423,pop rock
+2424,rap
+2425,electronic
+2426,jazz
+2427,electronic
+2428,electronic
+2429,pop rock
+2430,electronic
+2431,classical
+2432,pop rock
+2433,pop rock
+2434,electronic
+2435,pop rock
+2436,dub
+2437,pop rock
+2438,pop rock
+2439,pop rock
+2440,pop rock
+2441,electronic
+2442,electronic
+2443,electronic
+2444,electronic
+2445,electronic
+2446,pop rock
+2447,pop rock
+2448,pop rock
+2449,pop rock
+2450,pop rock
+2451,pop rock
+2452,electronic
+2453,pop rock
+2454,rap
+2455,pop rock
+2456,jazz
+2457,electronic
+2458,pop rock
+2459,pop rock
+2460,pop rock
+2461,classical
+2462,pop rock
+2463,pop rock
+2464,country
+2465,pop rock
+2466,r&b
+2467,alternative indie rock
+2468,pop rock
+2469,pop rock
+2470,pop rock
+2471,pop rock
+2472,pop rock
+2473,pop rock
+2474,pop rock
+2475,alternative indie rock
+2476,pop rock
+2477,r&b
+2478,electronic
+2479,pop rock
+2480,pop rock
+2481,country
+2482,pop rock
+2483,pop rock
+2484,pop rock
+2485,pop rock
+2486,electronic
+2487,electronic
+2488,pop rock
+2489,rap
+2490,electronic
+2491,pop rock
+2492,electronic
+2493,country
+2494,alternative indie rock
+2495,avant garde
+2496,electronic
+2497,pop rock
+2498,country
+2499,punk
+2500,traditional scottish folk
+2501,pop rock
+2502,pop rock
+2503,rap
+2504,blues
+2505,electronic
+2506,pop rock
+2507,jazz
+2508,pop rock
+2509,rap
+2510,pop rock
+2511,pop rock
+2512,pop rock
+2513,pop rock
+2514,rap
+2515,pop rock
+2516,rap
+2517,electronic
+2518,electronic
+2519,pop
+2520,pop rock
+2521,country
+2522,pop rock
+2523,electronic
+2524,electronic
+2525,electronic
+2526,pop rock
+2527,folk
+2528,pop rock
+2529,pop rock
+2530,pop rock
+2531,electronic
+2532,electronic
+2533,americana
+2534,pop rock
+2535,electronic
+2536,country
+2537,pop rock
+2538,electronic
+2539,avant garde
+2540,pop rock
+2541,rap
+2542,pop rock
+2543,electronic
+2544,pop rock
+2545,pop rock
+2546,electronic
+2547,electronic
+2548,electronic
+2549,rap
+2550,folk
+2551,pop rock
+2552,pop rock
+2553,pop rock
+2554,electronic
+2555,pop rock
+2556,pop rock
+2557,pop rock
+2558,pop rock
+2559,rap
+2560,pop rock
+2561,pop rock
+2562,pop rock
+2563,pop rock
+2564,pop rock
+2565,pop rock
+2566,pop rock
+2567,pop rock
+2568,pop rock
+2569,country
+2570,electronic
+2571,pop rock
+2572,electronic
+2573,international
+2574,electronic
+2575,pop rock
+2576,pop rock
+2577,electronic
+2578,rap
+2579,pop rock
+2580,pop rock
+2581,electronic
+2582,electronic
+2583,latin
+2584,pop rock
+2585,pop rock
+2586,pop rock
+2587,punk
+2588,pop rock
+2589,electronic
+2590,pop rock
+2591,dance
+2592,pop rock
+2593,pop rock
+2594,pop rock
+2595,pop rock
+2596,pop rock
+2597,pop rock
+2598,pop rock
+2599,pop rock
+2600,pop rock
+2601,pop rock
+2602,alt country
+2603,pop rock
+2604,pop rock
+2605,electronic
+2606,pop rock
+2607,blues
+2608,pop rock
+2609,pop rock
+2610,experimental
+2611,pop rock
+2612,pop rock
+2613,pop rock
+2614,electronic
+2615,pop rock
+2616,pop rock
+2617,pop rock
+2618,pop rock
+2619,pop rock
+2620,pop rock
+2621,pop rock
+2622,electronic
+2623,electronic
+2624,electronic
+2625,electronic
+2626,country
+2627,electronic
+2628,electronic
+2629,pop rock
+2630,pop rock
+2631,alternative indie rock
+2632,folk
+2633,pop rock
+2634,pop rock
+2635,pop rock
+2636,pop rock
+2637,international
+2638,bluegrass
+2639,r&b
+2640,pop rock
+2641,pop rock
+2642,rap
+2643,electronic
+2644,pop rock
+2645,rap
+2646,pop rock
+2647,pop rock
+2648,electronic
+2649,electronic
+2650,pop rock
+2651,pop rock
+2652,electronic
+2653,pop rock
+2654,pop rock
+2655,country
+2656,r&b
+2657,r&b
+2658,pop rock
+2659,electronic
+2660,pop rock
+2661,jazz
+2662,bluegrass
+2663,electronic
+2664,rap
+2665,pop rock
+2666,rap
+2667,pop rock
+2668,pop rock
+2669,pop rock
+2670,pop rock
+2671,pop rock
+2672,folk
+2673,country
+2674,pop rock
+2675,pop rock
+2676,electronic
+2677,alternative indie rock
+2678,bluegrass
+2679,pop rock
+2680,pop rock
+2681,pop rock
+2682,electronic
+2683,folk
+2684,electronic
+2685,pop rock
+2686,pop rock
+2687,vocal
+2688,electronic
+2689,pop rock
+2690,electronic
+2691,pop rock
+2692,pop rock
+2693,pop rock
+2694,pop rock
+2695,folk
+2696,electronic
+2697,pop rock
+2698,country
+2699,blues
+2700,folk
+2701,electronic
+2702,electronic
+2703,experimental
+2704,classical
+2705,jazz
+2706,pop rock
+2707,pop rock
+2708,classical
+2709,pop rock
+2710,rap
+2711,pop rock
+2712,pop rock
+2713,holiday
+2714,pop rock
+2715,pop rock
+2716,pop rock
+2717,adult contemporary
+2718,electronic
+2719,pop rock
+2720,electronic
+2721,pop rock
+2722,pop
+2723,pop rock
+2724,pop rock
+2725,gospel
+2726,pop rock
+2727,avant garde
+2728,pop rock
+2729,pop rock
+2730,pop rock
+2731,jazz
+2732,pop rock
+2733,folk
+2734,pop rock
+2735,folk
+2736,pop rock
+2737,electronic
+2738,pop rock
+2739,pop rock
+2740,pop rock
+2741,rap
+2742,international
+2743,pop rock
+2744,avant garde
+2745,stage & screen
+2746,pop rock
+2747,pop rock
+2748,dance
+2749,pop rock
+2750,jazz
+2751,pop rock
+2752,pop rock
+2753,pop rock
+2754,folk
+2755,pop rock
+2756,rap
+2757,pop rock
+2758,pop rock
+2759,rap
+2760,pop rock
+2761,pop rock
+2762,electronic
+2763,pop rock
+2764,experimental
+2765,vocal
+2766,pop rock
+2767,electronic
+2768,pop rock
+2769,pop rock
+2770,folk rock
+2771,electronic
+2772,electronic
+2773,pop rock
+2774,folk
+2775,pop rock
+2776,pop rock
+2777,pop rock
+2778,pop rock
+2779,r&b
+2780,rap
+2781,electronic
+2782,pop rock
+2783,rap
+2784,rap
+2785,pop rock
+2786,punk
+2787,pop rock
+2788,pop rock
+2789,pop rock
+2790,rap
+2791,pop rock
+2792,electronic
+2793,folk
+2794,pop rock
+2795,pop rock
+2796,pop rock
+2797,folk
+2798,r&b
+2799,r&b
+2800,latin
+2801,pop rock
+2802,pop rock
+2803,rap
+2804,pop rock
+2805,pop rock
+2806,electronic
+2807,jazz
+2808,soundtracks
+2809,jazz
+2810,pop rock
+2811,rap
+2812,pop rock
+2813,pop rock
+2814,pop rock
+2815,pop rock
+2816,pop rock
+2817,rap
+2818,electronic
+2819,pop rock
+2820,experimental
+2821,pop rock
+2822,pop rock
+2823,alternative indie rock
+2824,pop rock
+2825,r&b
+2826,pop rock
+2827,rap
+2828,pop rock
+2829,electronic
+2830,electronic
+2831,comedy
+2832,electronic
+2833,alternative indie rock
+2834,electronic
+2835,r&b
+2836,electronic
+2837,pop rock
+2838,pop rock
+2839,folk
+2840,country
+2841,pop rock
+2842,electronic
+2843,electronic
+2844,pop rock
+2845,pop
+2846,pop rock
+2847,rap
+2848,pop rock
+2849,electronic
+2850,electronic
+2851,pop rock
+2852,electronic
+2853,pop rock
+2854,r&b
+2855,pop rock
+2856,pop rock
+2857,pop rock
+2858,pop rock
+2859,pop rock
+2860,pop rock
+2861,pop
+2862,r&b
+2863,pop rock
+2864,pop rock
+2865,pop rock
+2866,punk
+2867,pop rock
+2868,country
+2869,indie electronic
+2870,electronic
+2871,pop rock
+2872,pop rock
+2873,britpop
+2874,r&b
+2875,pop rock
+2876,pop rock
+2877,pop rock
+2878,pop rock
+2879,pop rock
+2880,r&b
+2881,pop rock
+2882,pop rock
+2883,pop rock
+2884,pop rock
+2885,pop rock
+2886,pop rock
+2887,pop rock
+2888,electronic
+2889,electronic
+2890,pop rock
+2891,pop rock
+2892,pop rock
+2893,dub
+2894,pop rock
+2895,country
+2896,rock
+2897,pop rock
+2898,experimental
+2899,country
+2900,pop rock
+2901,folk
+2902,pop rock
+2903,pop rock
+2904,rap
+2905,folk
+2906,rap
+2907,pop rock
+2908,folk
+2909,country
+2910,electronic
+2911,latin
+2912,pop rock
+2913,country
+2914,rap
+2915,pop rock
+2916,pop rock
+2917,rap
+2918,pop rock
+2919,electronic
+2920,blues
+2921,pop rock
+2922,pop rock
+2923,pop rock
+2924,pop rock
+2925,pop rock
+2926,pop rock
+2927,r&b
+2928,electronic
+2929,pop rock
+2930,pop rock
+2931,electronic
+2932,electronic
+2933,electronic
+2934,pop rock
+2935,pop rock
+2936,pop rock
+2937,rap
+2938,rap
+2939,pop rock
+2940,electronic
+2941,electronic
+2942,country
+2943,pop rock
+2944,pop rock
+2945,pop rock
+2946,rap
+2947,rap
+2948,pop rock
+2949,experimental
+2950,blues
+2951,pop rock
+2952,pop rock
+2953,electronic
+2954,pop rock
+2955,pop rock
+2956,pop rock
+2957,pop rock
+2958,electronic
+2959,pop rock
+2960,pop rock
+2961,r&b
+2962,pop rock
+2963,blues
+2964,pop rock
+2965,pop rock
+2966,pop rock
+2967,pop rock
+2968,electronic
+2969,pop rock
+2970,pop rock
+2971,pop rock
+2972,pop rock
+2973,pop rock
+2974,r&b
+2975,jazz
+2976,classical
+2977,electronic
+2978,pop rock
+2979,electronic
+2980,pop rock
+2981,hip hop
+2981,pop
+2982,metalcore
+2982,hardcore punk
+2982,mathcore
+2982,sludge metal
+2983,spoken word
+2983,indie rock
+2983,emo
+2984,r&b
+2985,post grunge
+2985,hard rock
+2985,alternative metal
+2986,pop
+2986,reggae fusion
+2986,pop rock
+2986,r&b
+2986,soul
+2987,r&b
+2988,j pop
+2988,dance pop
+2988,house
+2988,trance
+2989,r&b
+2990,pop rock
+2991,post hardcore
+2991,pop punk
+2991,alternative rock
+2991,emo
+2992,electropop
+2993,metalcore
+2993,alternative metal
+2993,melodic death metal
+2994,symphonic metal
+2994,alternative rock
+2995,indie pop
+2996,edm
+2997,k pop
+2997,electronic
+2997,dance pop
+2997,synthpop
+2998,alternative rock
+2998,post punk
+2998,dance rock
+2998,krautrock
+2999,hip hop
+3000,synthpop
+3000,new wave
+3000,disco
+3001,deathcore
+3002,reggae
+3002,rock
+3002,rap rock
+3002,alternative rock
+3003,americana
+3003,folk rock
+3003,roots rock
+3003,country blues
+3003,delta blues
+3003,rockabilly
+3003,alternative country
+3003,heartland rock
+3004,soul
+3004,r&b
+3004,blues
+3005,progressive rock
+3006,indie pop
+3006,indie rock
+3007,pop
+3007,folk
+3007,country
+3008,indie rock
+3009,heavy metal
+3010,modern soul
+3011,alternative rock
+3011,indie rock
+3011,indie pop
+3012,deathcore
+3013,deathcore
+3013,metalcore
+3013,melodic death metal
+3013,progressive metal
+3014,indie pop
+3014,alternative rock
+3015,pop rock
+3016,punk rock
+3017,alternative country
+3018,punk rock
+3018,melodic hardcore
+3018,alternative rock
+3019,comedy
+3019,parody
+3020,alternative rock
+3020,experimental rock
+3021,pop rock
+3021,indie pop
+3021,indie rock
+3021,lo fi
+3021,surf pop
+3022,alternative rock
+3022,christian rock
+3023,hip hop
+3024,metalcore
+3024,post hardcore
+3025,avant garde metal
+3026,r&b
+3026,pop
+3026,soul
+3027,experimental hip hop
+3028,alternative metal
+3028,hard rock
+3028,post grunge
+3029,swing
+3029,traditional pop
+3030,hardcore hip hop
+3031,blues rock
+3032,indie rock
+3033,k pop
+3033,r&b
+3033,dance
+3034,r&b
+3034,pop
+3034,dance
+3035,r&b
+3036,hard rock
+3036,alternative metal
+3036,post grunge
+3037,heartland rock
+3037,blues rock
+3038,folk metal
+3038,power metal
+3038,heavy metal
+3039,folk
+3039,acoustic
+3040,rock
+3041,hard rock
+3041,heavy metal
+3041,alternative metal
+3042,punk rock
+3043,indie rock
+3043,art rock
+3044,post hardcore 
+3044,electronicore 
+3044,metalcore
+3045,alternative r&b
+3045,electronic
+3046,rockabilly
+3047,hip hop
+3048,alternative hip hop
+3048,spoken word
+3049,synthpop
+3050,rock
+3051,art pop
+3052,pop
+3052,electropop
+3052,dream pop
+3053,heavy metal
+3054,indie rock
+3055,power metal
+3056,electronica
+3056,indie pop
+3056,dream pop
+3056,ambient
+3056,worldbeat
+3057,hip hop
+3058,rock
+3058,power pop
+3059,hip hop
+3060,ccm
+3060,christian alternative rock
+3060,christian rock
+3061,alternative rock
+3061,heartland rock
+3061,indie rock
+3062,hard rock
+3062,stoner rock
+3062,alternative rock
+3062,psychedelic rock
+3062,sludge metal
+3063,rock
+3063,soul
+3064,alternative
+3065,rock
+3066,pop
+3066,dance pop
+3066,r&b
+3067,house
+3067,dance
+3067,world music
+3068,alternative rock
+3068,post punk
+3068,punk rock
+3069,hip hop
+3070,garage rock
+3070,hard rock
+3070,blues rock
+3070,post grunge
+3071,electronic
+3072,reggaeton
+3072,electropop
+3072,mambo
+3073,country
+3074,progressive rock
+3074,progressive metal
+3075,nu metal
+3075,pop rock
+3075,post grunge
+3076,power metal
+3076,heavy metal
+3077,psychedelic rock
+3077,glam rock
+3077,garage rock
+3078,rock
+3079,folk
+3079,pop
+3080,pop
+3080,pop rock
+3081,indie rock
+3082,folk rock
+3083,alternative rock
+3083,post hardcore
+3084,alternative rock
+3085,hip hop
+3086,hardcore hip hop
+3087,pop
+3088,indie pop
+3089,indie folk
+3089,indie pop
+3090,alternative
+3090,r&b
+3090,pop
+3091,alternative rock
+3092,indie rock
+3092,lo fi
+3093,folk rock
+3093,worldbeat
+3093,psychedelic rock
+3093,alternative rock
+3094,rock
+3094,alternative country
+3095,rock
+3095,alternative
+3096,punk rock
+3096,indie rock
+3096,noise rock
+3097,latin pop
+3097,pop
+3097,synthpop
+3098,gospel
+3098,soul
+3098,r&b
+3099,country rock
+3099,alternative country
+3099,indie folk
+3100,alternative metal
+3101,pbr&b
+3102,christian hip hop
+3103,country
+3104,pop
+3104,r&b
+3105,contemporary gospel
+3105,r&b
+3106,hip hop
+3107,electronica
+3108,alternative rock
+3109,rock
+3110,hip hop
+3111,hip hop
+3111,r&b
+3112,indie rock
+3112,indie pop
+3113,pop rock
+3113,r&b
+3114,indie pop
+3115,indie rock
+3115,alternative rock
+3116,hard rock
+3116,heavy metal
+3117,traditional pop
+3117,vocal music
+3118,alternative rock
+3118,post grunge
+3118,hard rock
+3119,pop rock
+3119,electropop
+3119,indie rock
+3120,pop rock
+3120,folk rock
+3121,indie rock
+3122,country
+3123,rock
+3123,pop rock
+3124,afropop
+3124,afrobeat
+3124,highlife
+3125,electronic
+3126,pop
+3126,synthpop
+3127,british hip hop
+3127,rap rock
+3128,experimental rock
+3128,electronic
+3129,synthpop
+3129,electropop
+3130,experimental rock
+3130,worldbeat
+3130,neo psychedelia
+3131,synthpop
+3131,freestyle
+3132,r&b
+3133,free jazz
+3134,americana
+3134,folk rock
+3134,roots rock
+3134,heartland rock
+3135,experimental rock
+3135,noise rock
+3135,neo psychedelia
+3135,post punk
+3136,country
+3137,funk rock
+3137,soul
+3137,pop
+3138,lo fi
+3138,pop
+3138,soul
+3139,jazz
+3139,traditional pop
+3140,electropop
+3140,synthpop
+3140,dance pop
+3141,electropop
+3142,electronica
+3142,idm
+3143,indie pop
+3144,rock
+3145,soul
+3145,contemporary r&b
+3145,neo soul
+3146,hip hop
+3147,country
+3148,r&b
+3149,rock
+3150,pop
+3150,folk
+3150,r&b
+3151,post hardcore
+3152,alternative rock
+3152,pop punk
+3152,garage rock
+3152,britpop
+3153,country
+3154,country
+3154,pop
+3155,americana
+3155,folk rock
+3155,alternative country
+3155,heartland rock
+3156,rock
+3157,hard rock
+3157,alternative metal
+3158,r&b
+3158,electro funk
+3159,funk rock
+3160,vocal jazz
+3160,afro cuban jazz
+3160,brazilian jazz
+3161,christmas
+3161,traditional pop
+3161,swing
+3161,big band
+3162,edm
+3163,synthpop
+3163,indie pop
+3164,jazz
+3164,jazz pop
+3164,big band
+3165,synthpop
+3165,edm
+3165,alternative rock
+3166,pop
+3166,r&b
+3166,edm
+3167,electronic
+3167,house
+3168,electronic
+3168,experimental
+3168,jazz fusion
+3169,deep house
+3169,dance
+3170,post punk
+3170,art punk
+3170,punk rock
+3171,pop
+3171,r&b
+3171,electronica
+3172,indie rock
+3173,alternative rock
+3174,indie rock
+3174,pop rock
+3175,ambient
+3175,electronic
+3175,art rock
+3176,baroque pop
+3176,synthpop
+3176,electronica
+3177,folk
+3177,pop
+3178,indie pop
+3179,blues
+3179,soul
+3179,r&b
+3179,folk rock
+3179,indie rock
+3180,country
+3181,r&b
+3181,hip hop
+3181,soul
+3182,hip hop
+3183,pop punk
+3183,alternative rock
+3184,art rock
+3185,hard rock
+3185,heavy metal
+3185,glam metal
+3186,rock
+3187,r&b
+3187,alternative r&b
+3187,pop
+3188,alternative rock
+3188,pop rock
+3189,pop
+3189,soul
+3190,pop
+3190,r&b
+3191,indie pop
+3192,rock
+3192,heartland rock
+3193,thrash metal
+3194,country
+3195,indie rock
+3195,psychedelic folk
+3195,psychedelic pop
+3196,hip hop
+3197,christmas
+3198,industrial rock
+3199,hip hop
+3199,r&b
+3200,synthpop
+3200,power pop
+3200,disco
+3201,heavy metal
+3201,hard rock
+3202,folk
+3203,alternative rock
+3203,neo psychedelia
+3203,psychedelic rock
+3203,dream pop
+3204,pop
+3205,dance pop
+3205,deep house
+3205,electronic
+3205,r&b
+3206,r&b
+3206,pop
+3207,r&b
+3207,pop
+3207,dance pop
+3208,alternative rock
+3209,folk
+3209,indie folk
+3209,ambient
+3209,shoegaze
+3210,hip hop
+3210,jazz
+3211,disco
+3211,funk
+3211,pop
+3212,alternative rock
+3212,noise rock
+3213,soul
+3213,jazz
+3214,horrorcore
+3214,gangsta rap
+3214,hardcore hip hop
+3215,alternative rock
+3215,post grunge
+3216,indie rock
+3217,country
+3218,hip hop
+3219,alternative rock
+3220,ranchera
+3221,experimental rock
+3222,heavy metal
+3222,nu metal
+3222,alternative metal
+3223,adult contemporary
+3224,hip hop
+3225,jazz
+3226,heavy metal
+3227,ccm
+3227,worship
+3228,r&b
+3228,pop
+3229,progressive metal
+3229,industrial metal
+3229,progressive rock
+3229,experimental rock
+3229,new age
+3230,punk rock
+3230,ska punk
+3231,pop
+3231,dance pop
+3231,synth pop
+3232,progressive rock
+3233,melodic death metal
+3234,electro house
+3234,edm
+3234,synth pop
+3234,trap
+3234,moombahton
+3235,soul
+3236,psychedelic rock
+3236,neo psychedelia
+3237,punk rock
+3237,skate punk
+3237,pop punk
+3237,melodic hardcore
+3238,alternative rock
+3238,post grunge
+3238,hard rock
+3239,hip hop
+3240,indie pop
+3240,jazz
+3241,hip hop
+3242,edm
+3242,electro house
+3243,thrash metal
+3243,death metal
+3244,alternative rock
+3244,indie pop
+3245,pop rock
+3245,synthpop
+3246,alternative rock
+3246,punk rock post hardcore
+3247,traditional pop
+3247,vocal music
+3248,country rock
+3249,hip hop
+3250,indie rock
+3251,comedy rock
+3252,pop
+3252,rock
+3252,jazz
+3253,dance pop
+3253,house rap
+3254,jazz
+3255,electronic
+3255,pop
+3255,r&b
+3256,synthpop
+3256,dream pop
+3257,electro house
+3258,groove metal
+3258,thrash metal
+3259,progressive rock
+3260,downtempo
+3260,ambient
+3260,synthpop
+3261,rock
+3261,alternative rock
+3261,post grunge
+3261,hard rock
+3262,rock
+3263,r&b
+3263,soul
+3263,pop
+3263,gospel
+3264,k pop
+3264,electropop
+3264,dance pop
+3265,hip hop
+3266,synthrock
+3267,country pop
+3267,pop rock
+3268,r&b
+3268,pop rock
+3269,stoner rock
+3270,art rock
+3270,psychedelic pop
+3271,electropop
+3271,pop
+3271,sophisti pop
+3271,pop rock
+3272,pop
+3272,r&b
+3272,dance pop
+3273,gothic metal
+3273,alternative metal
+3273,electronic rock
+3274,post grunge
+3274,alternative rock
+3274,hard rock
+3274,alternative metal
+3275,indie pop
+3275,indie rock
+3275,indie folk
+3275,folk rock
+3276,pop
+3277,pop
+3277,electronic
+3277,hip hop
+3278,rock
+3279,country
+3279,pop
+3279,classical
+3280,alternative rock
+3280,ccm
+3280,new wave revival
+3281,art rock
+3281,indie rock
+3281,synthpop
+3281,funk
+3282,soul
+3283,edm
+3283,pop
+3283,electro
+3283,trap
+3284,pop
+3284,jazz
+3285,pop
+3285,adult contemporary
+3285,r&b
+3286,pop
+3287,pop rock
+3288,alternative r&b
+3288,pop
+3289,hip hop
+3290,r&b
+3291,r&b
+3291,uk garage
+3291,deep house
+3291,soul
+3291,grime
+3292,hip hop
+3292,house
+3293,alternative rock
+3294,hip hop
+3295,dance pop
+3296,christmas
+3297,hip hop
+3298,dance
+3298,techno
+3298,pop
+3298,r&b
+3299,pop
+3299,r&b
+3300,hip hop
+3301,k pop
+3301,j pop
+3301,dance pop
+3302,pop
+3303,pop
+3303,pop rock
+3304,hard rock
+3305,alternative
+3306,alternative r&b
+3307,britpop
+3307,pop
+3307,pop rock
+3308,pop
+3309,alternative rock
+3309,space rock
+3310,country
+3311,merengue
+3311,hip hop
+3311,dancehall
+3312,hip hop
+3313,r&b
+3313,soul
+3314,hip hop
+3315,alternative rock
+3316,experimental metal
+3316,progressive metal
+3317,pop punk
+3317,power pop
+3317,punk rock
+3318,soul
+3318,funk
+3318,r&b
+3318,rock
+3319,hip hop
+3320,hip hop
+3321,comedy hip hop
+3321,synthpop
+3321,nerdcore
+3322,j pop
+3322,dance
+3323,electronic
+3323,ambient
+3324,electronic rock
+3325,hip hop
+3326,blue eyed soul
+3326,doo wop
+3326,pop
+3327,progressive rock
+3328,indie folk
+3328,indie rock
+3329,rock
+3329,alternative rock
+3330,r&b
+3330,pop
+3331,alternative r&b
+3331,hip hop
+3332,funk
+3332,r&b
+3332,pop
+3333,electronicore
+3333,edm
+3333,post hardcore
+3334,psychedelic pop
+3334,experimental
+3334,electronic
+3335,alternative rock
+3335,blues rock
+3335,hard rock
+3336,indie pop
+3336,alternative
+3336,pop
+3337,electronic
+3338,post hardcore
+3338,melodic hardcore
+3338,hardcore punk
+3338,emo
+3339,indie pop
+3340,electronic
+3340,avant garde
+3340,classical
+3340,ambient
+3341,indie rock
+3342,electronicore
+3342,post hardcore
+3342,alternative metal
+3343,alternative rock
+3344,hip hop
+3345,hip hop
+3346,r&b
+3347,post punk
+3347,punk rock
+3347,alternative rock
+3348,punk rock
+3348,indie rock
+3348,post punk
+3349,jazz
+3350,indie rock
+3350,post punk
+3350,art rock
+3351,j pop
+3352,jazz
+3353,psychedelic rock
+3353,space rock
+3353,funk
+3354,indie rock
+3355,pop
+3356,indie pop
+3356,baroque pop
+3357,hard rock
+3357,alternative metal
+3358,progressive metal
+3359,progressive metal
+3360,progressive bluegrass
+3361,synthpop
+3362,power metal
+3362,speed metal
+3362,heavy metal
+3362,progressive metal
+3362,symphonic metal
+3363,post metal
+3364,experimental rock
+3365,jazz
+3366,jazz
+3367,shoegazing
+3368,traditional pop
+3369,vocal jazz
+3370,pop
+3370,r&b
+3370,dance
+3371,hip hop
+3371,bachata
+3371,salsa
+3372,hip hop
+3372,r&b
+3373,pop
+3373,rock
+3374,experimental
+3374,indie rock
+3374,ambient
+3375,indie rock
+3376,dance
+3377,reggaeton
+3377,electropop
+3378,indie rock
+3378,emo
+3378,post rock
+3379,pop
+3379,electro
+3379,electropop
+3380,indie rock
+3381,indie rock
+3382,pop
+3383,progressive rock
+3384,pop
+3384,latin pop
+3385,hardcore punk
+3385,melodic hardcore
+3385,metalcore
+3386,pop opera
+3387,hip hop
+3388,r&b
+3388,soul
+3389,rock
+3390,art pop
+3390,electropop
+3390,baroque pop
+3390,synthpop
+3390,dance pop
+3391,alternative rock
+3391,alternative country
+3392,r&b
+3393,pop rock
+3393,rock
+3394,americana
+3394,country
+3394,indie
+3395,noise rock
+3395,post punk revival
+3395,shoegaze
+3396,r&b
+3397,indie rock
+3397,psychedelic folk
+3397,psychedelic rock
+3398,hip hop
+3398,jazz
+3399,british soul
+3399,pop
+3400,alternative
+3400,electronic
+3400,indie rock
+3401,hard rock
+3402,hard rock
+3402,heavy metal
+3403,melodic metalcore
+3404,hip hop
+3405,psychedelic rock
+3405,experimental rock
+3406,r&b
+3406,hip hop
+3407,alternative
+3408,post hardcore
+3409,electronic
+3410,alternative rock
+3410,industrial rock
+3411,heartland rock
+3411,southern rock
+3411,country rock
+3412,post hardcore
+3413,latin pop
+3414,metalcore
+3414,progressive metal
+3415,alternative rock
+3415,christian rock
+3415,christian metal
+3416,indie rock
+3416,punk
+3417,alternative rock
+3418,edm
+3418,trap
+3419,contemporary jazz
+3420,pop
+3421,progressive rock
+3422,pop
+3422,soul
+3423,pop
+3423,r&b
+3424,dance
+3424,r&b
+3424,house
+3425,pop rock
+3426,pop
+3427,progressive rock
+3427,psychedelic pop
+3427,punk rock
+3428,electronic
+3429,country
+3430,electronic
+3430,funk
+3430,pop
+3430,experimental
+3431,hard rock
+3431,pop rock
+3432,psychedelic rock
+3432,indie rock
+3433,pop
+3433,jazz fusion
+3434,christian
+3434,alternative
+3435,pop
+3436,indie rock
+3436,garage rock
+3436,indie pop
+3437,pop
+3437,folk
+3438,country music
+3439,country
+3439,folk
+3439,pop
+3440,hip hop
+3441,synthpop
+3441,indie pop
+3442,classic rock
+3443,indie rock
+3444,choral
+3444,christian
+3445,alternative rock
+3445,electronic rock
+3445,pop rock
+3445,alternative dance
+3446,garage rock
+3447,contemporary christian music
+3447,christian rock
+3447,christian alternative rock
+3448,post hardcore
+3448,pop punk
+3449,indie rock
+3450,jazz
+3451,pop
+3452,hard rock
+3452,pop rock
+3453,indie rock
+3454,hip hop
+3455,symphonic metal
+3456,indie
+3457,folk music
+3457,folk rock
+3457,alternative
+3458,deathcore
+3458,heavy metal
+3459,rock
+3459,blues
+3460,hip hop
+3461,indie rock
+3462,indie rock
+3463,indie rock
+3463,acoustic music
+3463,alternative country
+3463,folk rock
+3464,indie pop
+3464,pop
+3465,punk rock
+3465,post hardcore
+3465,alternative metal
+3466,classical
+3467,symphonic metal
+3467,power metal
+3467,folk metal
+3468,indie rock
+3469,big beat
+3469,electronica
+3469,breakbeat
+3470,soul
+3470,r&b
+3471,alternative rock
+3472,experimental hip hop
+3473,post rock
+3473,drone
+3473,noise
+3474,rap rock
+3474,rap metal
+3474,nu metal
+3474,alternative rock
+3475,indie rock
+3475,indie pop
+3475,dream pop
+3476,hip hop
+3477,edm
+3477,electronica
+3478,pop
+3478,rock
+3479,groove metal
+3479,thrash metal
+3480,rock
+3480,pop
+3481,rock
+3482,psychedelic folk
+3482,folk rock
+3483,indie folk
+3484,alternative metal
+3484,hard rock
+3485,hip hop
+3486,pop punk
+3486,pop rock
+3486,power pop
+3487,indie rock
+3487,indie folk
+3488,post hardcore
+3489,indietronica
+3489,synthpop
+3489,experimental
+3489,ambient
+3490,alternative metal
+3490,psychedelic rock
+3490,alternative
+3491,indie rock
+3491,alternative dance
+3491,post punk revival
+3492,alternative hip hop
+3492,indie rock
+3492,pop
+3493,rock
+3493,pop
+3494,hip hop
+3495,indie pop
+3495,electronic
+3496,indie rock
+3496,psychedelic rock
+3496,indie pop
+3496,soft rock
+3497,acid house
+3498,alternative rock
+3499,indie rock
+3500,j pop
+3501,alternative
+3501,folk
+3501,pop
+3502,hard rock
+3503,alternative country
+3503,indie folk
+3504,pop
+3505,blues rock
+3505,blues
+3505,soul
+3506,alt rock
+3506,indie folk
+3506,americana
+3506,tex mex
+3506,alt country
+3506,post rock
+3507,alternative hip hop
+3508,post hardcore
+3508,experimental rock
+3509,country
+3510,indie rock
+3511,emo
+3511,pop punk
+3511,post hardcore
+3512,cowpunk
+3512,psychobilly
+3513,country
+3514,pop
+3515,pop
+3515,soul
+3515,r&b
+3516,world
+3516,latin american
+3516,tropical
+3517,dream pop
+3517,pop rock
+3518,cello rock
+3519,blues rock
+3519,soul
+3520,blues rock
+3520,soul
+3521,jazz
+3522,heavy metal
+3522,hard rock
+3523,progrock
+3524,pop
+3525,hip hop
+3526,indie pop
+3526,indie folk
+3527,alternative metal
+3527,progressive metal
+3527,post grunge
+3528,blues rock
+3528,roots rock
+3528,soul
+3528,southern rock
+3528,garage rock
+3528,americana
+3529,metalcore
+3529,post hardcore
+3529,symphonic rock
+3530,indie rock
+3531,indie rock
+3532,indie rock
+3533,indie rock
+3533,alternative rock
+3533,indie pop
+3533,indietronica
+3534,synthpop
+3534,indie pop
+3534,alternative
+3535,baroque pop
+3535,indie rock
+3536,electronica
+3537,rock
+3537,punk rock
+3537,alternative rock
+3538,hip hop
+3539,pop
+3540,speed metal
+3540,power metal
+3541,trap
+3541,edm
+3542,britpop
+3543,neo psychedelia
+3543,experimental rock
+3543,krautrock
+3544,alternative rock
+3545,hip hop
+3546,acoustic
+3546,alternative
+3547,rock
+3548,hip hop
+3548,dance pop
+3548,r&b
+3548,k pop
+3549,dance
+3549,pbr&b
+3550,neo soul
+3550,alternative r&b
+3551,metalcore
+3552,folk metal
+3553,jazz
+3554,hip hop
+3555,r&b
+3556,noise rock
+3557,folk rock
+3557,indie folk
+3557,bluegrass
+3558,indie rock
+3558,alternative rock
+3559,electronic
+3559,hip hop
+3560,indie pop
+3560,alternative rock
+3561,country
+3562,christian rock
+3562,christian alternative rock
+3562,dance pop
+3562,electropop
+3562,indie rock
+3563,jazz
+3564,neoclassical metal
+3564,power metal
+3564,progressive metal
+3564,symphonic metal
+3565,psychedelic rock
+3566,jazz rock
+3567,electronic
+3567,dance pop
+3568,punk revival
+3569,k pop
+3569,ballad
+3569,dance
+3570,alternative rock
+3570,pop punk
+3570,indie rock
+3570,post hardcore
+3570,nu\xa0gaze
+3571,hard rock
+3571,post grunge
+3571,alternative rock
+3572,folk
+3573,hip hop
+3574,indie pop
+3574,alternative
+3575,edm
+3576,folk
+3577,blues
+3577,soul
+3578,synthpop
+3579,jazz
+3580,alternative hip hop
+3580,electropop
+3580,hip hop
+3580,indie pop
+3580,pop
+3580,reggae
+3580,rock
+3581,pop
+3581,alternative rock
+3582,pop punk
+3583,pop
+3583,baroque pop
+3584,r&b
+3584,pop
+3584,hip hop
+3584,soul
+3585,hard rock
+3585,blues rock
+3586,nu metal
+3586,alternative metal
+3587,alternative rock
+3588,metalcore
+3588,christian metal
+3588,hard rock
+3589,electronic
+3589,experimental
+3590,r&b
+3591,pop
+3591,dance music
+3591,r&b
+3591,hip house
+3591,disco
+3592,post hardcore
+3593,rock
+3593,alternative
+3594,pop punk
+3595,progressive house
+3595,dance pop
+3595,complextro
+3595,electro house
+3596,blues
+3597,synthpop
+3598,alternative rock
+3599,alternative rock
+3599,drum and bass
+3599,dubstep
+3600,dubstep
+3601,celtic fusion
+3601,experimental
+3602,indie rock
+3602,garage rock
+3602,post punk revival
+3603,pop
+3603,r&b
+3603,psychedelic pop
+3603,soul
+3604,electro
+3604,house
+3604,dubstep
+3604,drum and bass
+3604,glitch
+3604,moombahton
+3605,progressive house
+3605,electro house
+3606,hip hop
+3607,alternative rock
+3607,pop rock
+3607,power pop
+3608,indie rock
+3608,indie pop
+3608,psychedelic rock
+3608,r&b
+3608,disco
+3609,hip hop
+3609,neo soul
+3609,jazz fusion
+3610,power metal
+3611,electronic
+3611,dance
+3612,pop
+3612,r&b
+3613,dance pop
+3613,trap
+3613,acoustic
+3614,hard rock
+3615,indie rock
+3615,art rock
+3615,baroque pop
+3615,blues
+3615,psychedelic rock
+3616,alternative rock
+3616,indie rock
+3617,electronic
+3617,jazz
+3618,edm
+3618,dancehall
+3619,doom metal
+3619,death/doom
+3619,gothic metal
+3620,pop punk
+3621,dance pop
+3621,r&b
+3622,folk rock
+3622,indie folk
+3622,indie rock
+3623,indie pop
+3623,pop
+3624,heavy metal
+3625,pop
+3626,synthpop
+3626,electronic
+3627,alternative rock
+3628,indie rock
+3628,art rock
+3628,dance rock
+3628,electropop
+3629,electro house
+3629,dance pop
+3629,progressive house
+3629,big room house
+3630,alternative rock
+3630,hard rock
+3630,progressive rock
+3631,americana
+3631,indie rock
+3631,country
+3632,country
+3633,indie pop
+3633,indie folk
+3634,r&b
+3634,pop
+3635,heavy metal
+3635,post grunge
+3636,pop
+3637,power metal
+3638,disco
+3638,pop
+3638,edm
+3639,pop
+3640,adult contemporary
+3640,soft rock
+3640,folk
+3641,pop
+3642,pop
+3642,baroque pop
+3643,dream pop
+3643,indie pop
+3643,ambient
+3644,pop
+3644,dance pop
+3645,electronic
+3646,indie pop
+3646,pop
+3647,indie rock
+3647,alternative rock
+3648,indie pop
+3649,rock
+3650,post hardcore
+3650,alternative rock
+3651,indie pop
+3652,alternative rock
+3652,power pop
+3652,pop rock
+3653,power metal
+3653,progressive metal
+3654,jazz
+3654,soul
+3654,pop
+3655,melodic death metal
+3655,gothic metal
+3656,electronic
+3657,k pop
+3657,electropop
+3657,dance pop
+3658,pop
+3658,dance pop
+3659,diy punk
+3659,riot grrrl
+3660,indie rock
+3660,art rock
+3660,synthpop
+3660,electronic rock
+3661,alternative rock
+3662,alternative metal
+3662,post grunge
+3663,r&b
+3664,country
+3665,industrial metal
+3666,pop
+3666,r&b
+3667,hip hop
+3668,post punk
+3668,pop punk
+3668,indie rock
+3669,hip hop
+3670,melodic metalcore
+3671,neo soul
+3672,pop
+3673,alternative rock
+3674,pop punk
+3675,pop
+3675,pop rock
+3675,electronic
+3676,r&b
+3676,rock
+3677,post hardcore
+3678,hip hop
+3679,electronic rock
+3679,pop punk
+3679,pop
+3680,hard rock
+3680,heavy metal
+3681,hip hop
+3682,progressive metal
+3683,rock
+3683,folk
+3684,extreme metal
+3685,hip hop
+3686,synthpop
+3686,disco
+3687,electropop
+3687,synthpop
+3687,edm
+3687,electronica
+3688,metalcore
+3689,alternative rock
+3689,pop rock
+3690,roots rock
+3691,r&b
+3692,power metal
+3692,melodic death metal
+3693,alternative rock
+3693,pop rock
+3694,synthpop
+3694,electronica
+3694,house
+3695,hip hop
+3696,alternative rock
+3696,indie rock
+3697,funk
+3697,soul
+3698,hip hop
+3698,trap
+3699,rock
+3699,indie rock
+3699,folk
+3699,world
+3699,country
+3700,alternative country
+3701,dream pop
+3701,dark wave
+3701,alternative rock
+3702,comedy rock
+3702,synthpop
+3703,latin
+3704,alternative rock
+3705,synthpop
+3706,country
+3707,pop
+3708,post hardcore
+3708,experimental rock
+3709,electronica
+3709,trip hop
+3709,house
+3709,techno
+3710,hip hop
+3711,neo soul
+3711,funk
+3712,instrumental rock
+3713,groove metal
+3713,thrash metal
+3714,dance
+3714,edm
+3715,latin pop
+3716,alternative hip hop
+3716,post punk
+3717,progressive metal
+3717,neoclassical metal
+3718,post hardcore
+3718,melodic metalcore
+3718,alternative rock
+3719,folk
+3719,electronica
+3720,punk rock
+3720,indie rock
+3721,hard rock
+3721,alternative metal
+3721,post grunge
+3722,soul
+3722,reggae
+3722,hip hop
+3722,world music
+3722,r&b
+3723,death metal
+3724,pop punk
+3725,neo soul
+3726,alternative rock
+3726,indie rock
+3727,trap
+3728,pop
+3728,pop rock
+3728,indie rock
+3729,rock
+3730,rock
+3730,punk rock
+3731,symphonic metal
+3731,power metal
+3732,hip hop
+3733,deathgrind
+3733,progressive death metal
+3734,doom metal
+3734,gothic rock
+3734,noise rock
+3734,neofolk
+3734,drone metal
+3735,west coast hip hop
+3735,hip hop
+3736,industrial metal
+3736,groove metal
+3736,thrash metal
+3737,folk punk
+3737,folk rock
+3738,pop
+3738,swamp pop
+3738,pop rock
+3738,blue eyed soul
+3739,country
+3740,indie rock
+3740,jangle pop
+3740,psychedelic pop
+3740,dream pop
+3741,metalcore
+3742,dance
+3743,alternative
+3743,pop
+3743,rock
+3744,experimental
+3744,post industrial
+3744,indietronica
+3744,trip hop
+3744,electronic
+3745,ambient
+3745,mashup
+3746,alternative hip hop
+3747,heavy metal
+3747,metalcore
+3747,thrash metal
+3748,indie rock
+3749,roots rock
+3750,soul
+3750,rock
+3751,pop
+3751,folk
+3751,alternative rock
+3752,electropop
+3753,pop punk
+3754,alternative rock
+3755,thrash metal
+3755,groove metal
+3756,rock
+3757,thrash metal
+3758,pop
+3759,heavy metal
+3759,alternative metal
+3760,garage rock
+3760,alternative rock
+3760,indie rock
+3761,heavy metal
+3761,doom metal
+3761,progressive rock
+3762,power pop
+3762,rock
+3763,r&b
+3763,pop
+3763,dance pop
+3764,r&b
+3764,pop
+3764,hip hop
+3765,country pop
+3765,country rock
+3765,heartland rock
+3765,roots rock
+3766,hip hop
+3767,alternative metal
+3767,christian metal
+3767,nu metal
+3767,rap metal
+3768,hard rock
+3768,alternative metal
+3768,post grunge
+3768,pop rock
+3769,post hardcore
+3769,experimental rock
+3770,heavy metal
+3770,stoner metal
+3770,hard rock
+3771,rock
+3772,alternative rock
+3772,indietronica
+3772,synthpop
+3773,indie rock
+3773,dream pop
+3774,rap rock
+3775,chamber pop
+3775,sophisti pop
+3776,r&b
+3776,pop 
+3776,neo soul
+3777,indie rock
+3777,alternative rock
+3777,math rock
+3778,electropop
+3778,synthpop
+3778,indie pop
+3779,indie rock
+3780,punk rock
+3781,heavy metal
+3781,speed metal
+3781,hard rock
+3782,indie rock
+3782,folk rock
+3783,punk rock
+3783,rock
+3784,pbr&b
+3784,r&b
+3784,pop
+3785,indie rock
+3786,experimental
+3786,psychedelic
+3787,alternative rock
+3787,pop
+3788,punk rock
+3789,heavy metal
+3789,groove metal
+3790,indie pop
+3790,electropop
+3790,synthpop
+3791,progressive rock
+3792,hip hop
+3793,electropop
+3793,dream pop
+3794,reggaeton
+3794,electropop
+3794,latin pop
+3795,indie folk
+3795,balkan folk
+3796,ccm
+3797,indie pop
+3798,folk pop
+3799,electropop
+3799,synthpop
+3799,dance pop
+3800,pop
+3800,soul
+3801,electronic rock
+3801,electro house
+3801,dubstep
+3801,drum and bass
+3801,
+3802,hip hop
+3803,pop rock
+3804,metalcore
+3804,melodic metalcore
+3805,rock
+3806,rock
+3807,pop
+3808,country
+3809,metalcore
+3809,progressive metal
+3810,folk
+3811,electronica
+3811,edm
+3811,indietronica
+3811,moombahton
+3812,country rock
+3813,hip hop
+3814,hip hop
+3815,post rock
+3815,instrumental rock
+3815,experimental
+3815,ambient
+3815,post metal
+3816,power metal
+3817,dance
+3817,progressive house
+3817,deep house
+3818,alternative rock
+3819,metalcore
+3820,deep house
+3821,country
+3822,electronica
+3822,trip hop
+3823,pop
+3823,operatic pop
+3824,easy listening
+3824,traditional pop
+3824,vocal jazz
+3824,big band
+3825,r&b
+3825,soul
+3826,rock
+3827,alternative rock
+3827,post grunge
+3828,heavy metal
+3829,rock
+3829,boogie rock
+3829,southern rock
+3829,blues rock
+3830,electronic rock
+3831,r&b
+3832,hard rock
+3832,blues rock
+3833,r&b
+3833,uk garage
+3833,hip hop
+3834,trip hop
+3834,trance
+3834,dance
+3834,electronica
+3835,pop
+3836,alternative rock
+3836,pop punk
+3837,reggae
+3837,hip hop
+3838,pop rock
+3839,heavy metal
+3839,hard rock
+3840,j pop
+3840,electropop
+3840,dance pop
+3841,indie pop
+3841,alternative rock
+3841,synthpop
+3841,psychedelic pop
+3842,electro swing
+3843,hip hop
+3844,classical
+3845,alternative rock
+3846,deep house
+3846,pop
+3846,reggae fusion
+3847,a cappella
+3848,rock
+3848,hard rock
+3848,heavy metal
+3849,folk rock
+3849,acoustic
+3850,worship
+3850,ccm
+3851,progressive rock
+3852,indie folk
+3852,indie rock
+3853,rock
+3854,pop
+3854,r&b
+3854,soul
+3855,spoken word
+3856,film score
+3856,r&b
+3856,jazz
+3856,soul
+3856,neo soul
+3857,big room
+3857,trap
+3858,post hardcore
+3859,pop
+3859,pop soul
+3859,adult contemporary
+3860,r&b
+3860,soul
+3860,pop
+3860,neo soul
+3861,jazz
+3862,christmas
+3862,pop
+3862,r&b
+3863,nu metal
+3864,pop
+3864,r&b
+3864,soul
+3865,hip hop
+3865,motswako
+3865,house 
+3865,kwaito
+3865,afro pop
+3865,reggae
+3866,jazz
+3867,pop
+3867,dance
+3867,rock
+3867,r&b
+3867,soul
+3868,soul
+3869,alternative rock
+3869,indie rock
+3870,indie pop
+3870,pop rock
+3870,alternative
+3871,hardcore punk
+3871,grindcore
+3871,crust punk
+3872,pop
+3873,gothic rock
+3873,dark wave
+3874,latin pop
+3874,pop
+3874,electronic
+3875,pop
+3876,pop rock
+3876,soul
+3877,soul
+3877,r&b
+3878,post rock
+3878,sludge metal
+3879,j pop
+3880,pop
+3880,pop rock
+3881,worship
+3881,ccm
+3881,christian rock
+3881,pop rock
+3882,classical crossover
+3882,tango
+3882,bolero
+3882,mambo
+3883,pop
+3883,pop rock
+3884,latin pop
+3884,pop
+3884,electronic
+3885,edm
+3886,christmas
+3887,j pop
+3888,hard rock
+3888,heavy metal
+3889,pop
+3890,folk rock
+3891,dance pop
+3891,pop
+3892,hip hop
+3893,trap
+3894,pop
+3895,pop
+3895,pop rock
+3895,pop punk
+3896,pop
+3896,r&b
+3897,pop
+3898,rock
+3898,australian rock
+3899,alternative
+3900,hip hop
+3900,dance pop
+3900,r&b
+3900,k pop
+3901,r&b
+3901,pop
+3901,hip hop
+3902,metalcore
+3902,symphonic metal
+3902,post hardcore
+3903,pop
+3904,pop
+3904,r&b
+3904,dance
+3905,drum and bass
+3906,comedy
+3907,country
+3908,score
+3909,post hardcore
+3909,metalcore
+3910,christmas
+3910,r&b
+3910,trap
+3911,alternative rock
+3911,alternative hip hop
+3911,synthpop
+3912,ambient
+3913,edm
+3913,pop
+3913,dance
+3913,soul
+3914,pop
+3915,r&b
+3916,pop
+3916,afropop
+3916,reggae
+3917,hip hop
+3918,pop
+3918,soul
+3918,dance pop
+3918,r&b
+3919,melodic hardcore
+3920,british hip hop
+3920,grime
+3921,future bass
+3921,progressive house
+3921,trap
+3922,pop
+3923,jazz
+3924,gangsta rap
+3924,horrorcore
+3925,hip hop
+3926,west coast hip hop
+3926,g funk
+3927,christian hip hop
+3927,conscious hip hop
+3928,country
+3929,folk
+3930,hard bop
+3931,indie rock
+3932,jazz
+3932,swing
+3933,folk rock
+3934,hard rock
+3934,heavy metal
+3935,progressive rock
+3935,pop rock
+3936,pop punk
+3937,alternative dance
+3938,indie rock
+3938,electro house
+3939,jazz
+3940,progressive rock
+3941,r&b
+3942,country
+3942,country pop
+3943,symphonic metal
+3943,hard rock
+3943,power metal
+3944,jazz
+3945,jazz
+3946,metalcore
+3947,hard rock
+3948,pop rock
+3948,progressive rock
+3949,jazz
+3950,jazz
+3951,electro house
+3952,easy listening
+3952,new age
+3953,jazz
+3953,indie pop
+3953,soul
+3953,gospel
+3954,k pop
+3954,edm
+3954,dance pop
+3954,hip hop
+3955,spiritique
+3956,dance pop
+3956,pbr&b
+3956,hip hop
+3957,alternative rock
+3957,electronic rock
+3957,shoegazing
+3957,post punk revival
+3958,country
+3959,symphonic metal
+3960,progressive metal
+3960,technical death metal
+3961,edm
+3962,progressive metal
+3962,metalcore
+3963,alternative rock
+3963,hard rock
+3963,pop rock
+3963,post grunge
+3964,electronic
+3965,indie rock
+3965,alternative rock
+3966,hard rock
+3966,christian rock
+3967,pop
+3968,black metal
+3968,dark metal
+3969,soul
+3970,soul
+3970,jazz
+3970,funk
+3970,r&b
+3971,r&b
+3971,soul
+3971,hip hop
+3972,electronic
+3972,progressive house
+3972,dubstep
+3972,trap
+3973,j pop
+3973,pop
+3974,j pop
+3974,pop
+3975,progressive metal
+3975,djent
+3976,pop
+3976,r&b
+3977,pop
+3977,electropop
+3978,heavy metal
+3979,jazz
+3980,pop punk
+3980,alternative rock
+3981,hard rock
+3981,post grunge
+3981,alternative metal
+3981,alternative rock
+3982,pop
+3983,dark wave
+3984,experimental pop
+3984,wonky pop
+3984,electronic
+3984,bubblegum pop
+3985,nu metal
+3985,rap metal
+3985,post hardcore
+3986,post hardcore
+3986,alternative rock
+3987,new age
+3987,modern classical
+3987,improvisational
+3988,progressive metal
+3989,jazz
+3990,progressive metal
+3991,pop rock
+3991,alternative rock
+3992,jazz rock
+3993,modern classical
+3993,ambient
+3993,electronic
+3994,rock
+3995,punk
+3996,edm
+3997,rock
+3997,synth pop
+3997,pop rock
+3998,drum and bass
+3999,rock
+3999,alternative
+4000,hip hop
+4001,dance
+4001,electronic pop
+4001,r&b
+4002,dance
+4002,electronic
+4002,pop
+4003,contemporary christian music
+4003,worship
+4004,christian music
+4004,christian rock
+4004,christian edm
+4004,worship
+4005,jazz
+4005,jazz blues
+4006,christian pop
+4006,christian edm
+4006,christian rock
+4006,electropop
+4006,dance pop
+4006,pop rock
+4007,drum and bass
+4008,contemporary folk music
+4008,alternative rock
+4008,indie rock
+4008,indie folk
+4008,folk rock
+4009,punk
+4010,pop
+4011,alternative rock
+4012,grunge
+4012,alternative
+4013,indie rock
+4013,alternative rock
+4014,r&b
+4015,pop
+4015,dance
+4015,pop rock
+4015,soul
+4016,electronic
+4016,pop
+4017,indie pop
+4018,rock
+4018,alternative folk
+4018,southern gothic
+4018,revival punk
+4019,r&b
+4020,post metal
+4020,sludge metal
+4021,edm
+4022,meditation
+4023,post rock
+4024,punk
+4025,alternative rock
+4025,power pop
+4025,pop punk
+4026,latin alternative
+4026,pop rock
+4027,alternative rock
+4028,progressive metal
+4028,black metal
+4028,experimental metal
+4029,r&b
+4029,pop
+4030,rock
+4030,pop rock
+4031,pop rock
+4032,pop
+4033,hard rock
+4033,heavy metal
+4034,experimental rock
+4034,indie rock
+4034,post punk
+4035,balkan brass
+4036,classical music
+4037,r&b
+4037,neo soul
+4038,nu metal
+4039,alternative
+4040,j pop
+4040,pop
+4041,gothic rock
+4042,hip hop
+4043,alternative rock
+4044,pop
+4045,groove metal
+4045,alternative metal
+4045,melodic death metal
+4046,hip hop
+4046,christian hip hop
+4047,death doom
+4048,edm
+4048,electropop
+4049,worldbeat
+4050,pop
+4051,indie rock
+4052,grunge
+4052,alternative rock
+4052,power rock
+4053,hardcore punk
+4054,hip hop
+4054,dancehall
+4054,r&b
+4055,avant garde
+4055,classical
+4056,progressive metal
+4056,progressive rock
+4057,ska punk
+4058,pop
+4059,alternative rock
+4060,thrash metal
+4060,heavy metal
+4060,alternative metal
+4060,hard rock
+4061,blues rock
+4062,hip hop
+4062,dance pop
+4062,r&b
+4062,k pop
+4063,acoustic
+4064,jazz
+4065,jazz
+4066,jazz
+4067,pop
+4067,soul
+4067,jazz
+4067,synth pop
+4068,pop
+4069,hip hop
+4070,rock
+4070,pub rock
+4071,latin pop
+4071,reggaeton
+4071,dance pop
+4071,pop rock
+4072,jazz
+4073,thrash metal
+4074,pop
+4074,trap
+4074,hip hop
+4075,hip hop
+4076,hip hop
+4076,gospel rap
+4077,post hardcore
+4078,groove metal
+4079,electro house
+4080,heavy metal
+4080,doom metal
+4081,k pop
+4081,electropop
+4081,dance pop
+4082,teen pop
+4082,country pop
+4083,blues rock
+4083,soul
+4083,jazz
+4083,funk
+4084,rock
+4085,indie rock
+4086,power metal
+4086,heavy metal
+4087,metalcore
+4087,nu metal
+4087,djent
+4088,alternative rock
+4088,pop rock
+4089,pop
+4089,r&b
+4090,techno
+4091,classical
+4091,baroque
+4092,hard rock
+4092,alternative metal
+4092,post grunge
+4093,psychobilly
+4094,pop
+4094,r&b
+4095,jazz
+4096,progressive rock
+4097,thrash metal
+4098,jazz
+4099,progressive rock
+4100,gothic metal
+4100,alternative metal
+4101,jazz
+4102,pop rock
+4102,downtempo
+4103,heavy metal
+4103,groove metal
+4104,rock
+4104,soul
+4105,comedy hip hop
+4106,country
+4106,pop
+4107,drum & bass
+4107,dance pop
+4107,electropop
+4107,electro house
+4107,breakstep
+4107,dubstep
+4108,pop
+4109,contemporary instrumental
+4109,adult contemporary
+4110,hip hop
+4110,pbr&b
+4110,pop rock
+4111,indie folk
+4111,garage rock
+4111,americana
+4112,alternative rock
+4112,kwaito
+4113,post hardcore
+4113,progressive rock
+4113,jazz fusion
+4113,soul
+4114,power metal
+4114,heavy metal
+4115,pop
+4116,d beat
+4116,boston hardcore
+4117,electronic
+4118,west coast hip hop
+4118,gangsta rap
+4119,latin pop
+4120,hip hop
+4120,r&b
+4121,christian rock
+4121,hard rock
+4122,indie rock
+4123,dance pop
+4123,funk rock
+4124,electro house
+4124,progressive house
+4125,mandopop
+4126,instrumental rock
+4127,pop
+4127,folk
+4128,synth pop
+4128,electronica
+4129,neo soul
+4129,blues
+4129,jazz
+4130,indie rock
+4130,alternative rock
+4131,modern rock
+4132,pop
+4133,blues
+4134,hip hop soul
+4135,hip hop
+4136,pop
+4136,reggae fusion
+4136,reggae
+4137,metalcore
+4137,post hardcore
+4137,post metal
+4137,christian metal
+4137,
+4138,post hardcore
+4138,alternative rock
+4138,rock
+4139,alternative metal
+4139,post grunge
+4140,alternative rock
+4140,post hardcore
+4141,alternative rock
+4141,pop rock
+4142,medieval metal
+4143,hardcore punk
+4144,pop
+4145,metalcore
+4146,electronic
+4146,experimental music
+4147,rock
+4147,psychedelic rock
+4148,doo wop
+4149,pop rock
+4149,alternative rock
+4150,alternative rock
+4150,pop rock
+4151,punk rock
+4152,ccm
+4152,latin pop
+4152,blue eyed soul
+4152,salsa
+4153,r&b
+4154,west coast hip hop
+4154,gangsta rap
+4155,country
+4156,hip hop
+4156,r&b
+4156,pop
+4157,death metal
+4158,electronic
+4158,r&b
+4158,uk garage
+4159,pop
+4160,jazz
+4161,pop
+4162,christian metal
+4162,hard rock
+4163,symphonic rock
+4163,symphonic metal
+4164,worship
+4164,christian pop
+4164,christian rock
+4164,pop rock
+4165,metalcore
+4165,post hardcore
+4166,folk metal
+4166,symphonic metal
+4167,folk punk
+4168,jazz
+4169,jazz
+4170,electronic
+4171,black metal
+4172,power metal
+4173,hard rock
+4173,alternative metal
+4173,post grunge
+4173,nu metal
+4174,alternative hip hop
+4175,comedy
+4175,soundtrack
+4176,jazz
+4177,traditional pop
+4178,hip hop
+4179,pop
+4180,french pop
+4181,jazz
+4182,country
+4183,classical
+4184,hip hop
+4185,indie pop
+4186,pop
+4187,indie pop
+4187,folk
+4188,jazz
+4189,experimental rock
+4189,progressive rock
+4189,psychedelic rock
+4190,jazz
+4191,thrash metal
+4192,jazz
+4193,jazz
+4194,jazz
+4195,rock
+4195,pop rock
+4195,opera
+4196,jazz
+4196,electronic
+4197,indie pop
+4197,folk
+4197,disco
+4198,jazz
+4199,country pop
+4200,hip hop
+4201,progressive rock
+4201,indie rock
+4202,synth pop
+4203,alternative
+4204,pop
+4205,rock
+4205,punk
+4205,pop rock
+4205,electropop
+4206,jazz
+4207,metalcore
+4207,post hardcore
+4208,nu metal
+4208,alternative metal
+4208,post hardcore
+4208,metalcore
+4209,electronic
+4209,indie pop
+4210,jazz
+4211,jazz
+4212,trap
+4212,edm
+4213,country
+4214,pop
+4215,blues
+4215,rock
+4215,soul
+4216,alternative rock
+4217,blues
+4217,soul blues
+4218,deathgrind
+4218,groove metal
+4219,jazz
+4220,alternative rock
+4220,pop rock
+4221,indie pop
+4222,country
+4223,alternative rock
+4224,electronic
+4224,synth pop
+4224,new wave
+4225,ccm
+4225,worship
+4226,pop
+4226,r&b
+4227,pop
+4228,jazz
+4229,vocal pop
+4229,jazz
+4230,r&b
+4230,soul
+4231,rock
+4232,neo progressive rock
+4233,alternative
+4234,pop
+4235,alternative pop
+4236,pop
+4237,electronic
+4237,ambient
+4237,classical
+4238,dance rock
+4238,garage rock
+4238,industrial rock
+4239,metalcore
+4240,uk garage
+4240,dance
+4240,tropical house
+4241,symphonic metal
+4242,rock
+4242,blues rock
+4242,pop rock
+4243,pop
+4244,contemporary blues
+4245,gothic rock
+4246,alternative rock
+4247,indie pop
+4248,k pop
+4248,new jack swing
+4249,pop
+4249,pop rock
+4249,laïko
+4250,indie pop
+4251,pop
+4252,synth pop
+4252,electropop
+4253,r&b
+4253,neo soul
+4253,jazz
+4254,alternative rock
+4254,post grunge
+4254,indie rock
+4254,art rock
+4254,post punk
+4255,jazz
+4256,country
+4257,rock
+4257,blues
+4258,rock
+4258,memphis soul
+4259,alternative rock
+4260,alternative rock
+4261,pop
+4262,symphonic metal
+4262,power metal
+4262,progressive metal
+4263,hip hop
+4263,edm
+4263,r&b
+4263,trap
+4264,pop
+4265,blues rock
+4266,country
+4266,christmas
+4267,hip hop
+4268,jazz
+4269,blues
+4270,hip hop
+4271,west coast hip hop
+4271,gangsta rap
+4272,jazz
+4273,worship
+4274,pop
+4275,indie electronic
+4276,r&b
+4277,pop
+4278,metalcore
+4278,power metal
+4278,glam metal
+4279,alternative rock
+4280,orchestral pop
+4281,edm
+4281,pop
+4282,post hardcore
+4282,metalcore
+4282,alternative rock
+4283,hip hop
+4284,latin
+4285,pop
+4285,indie
+4285,alternative
+4286,traditional pop
+4286,vocal jazz
+4287,a cappella
+4287,christmas
+4288,rock
+4289,r&b
+4289,soul
+4290,country
+4290,christmas
+4291,indie pop
+4292,latin rock
+4293,christmas
+4294,acoustic rock
+4295,pop
+4295,pop rock
+4296,pop
+4296,r&b
+4297,french hip hop
+4297,french pop
+4298,country rock
+4299,pop
+4300,country
+4300,christmas
+4301,country
+4302,country
+4302,rock
+4302,country pop
+4303,indie pop
+4304,synth pop
+4304,hip hop
+4304,grime
+4304,witch house
+4305,hip hop
+4306,edm
+4307,electronic pop
+4307,indie pop
+4307,new wave
+4307,synth pop
+4308,melodic death metal
+4308,progressive metal
+4308,gothic metal
+4308,industrial metal
+4309,pop rock
+4310,heavy metal
+4310,power metal
+4311,r&b
+4311,trap
+4311,soul
+4312,deep house
+4312,tropical house
+4313,christmas music
+4313,jazz
+4313,swing
+4314,pop
+4315,opera
+4315,classical crossover
+4316,pop
+4316,pop rock
+4317,rock
+4317,hard rock
+4318,adult contemporary
+4319,alternative r&b
+4320,pop
+4321,pop punk
+4322,rock and roll
+4323,rock
+4324,electropop
+4325,new age
+4325,pop
+4325,electronica
+4325,downtempo
+4326,christmas
+4326,country
+4327,alternative metal
+4328,pop
+4328,christmas music
+4329,hip hop
+4330,pop
+4330,r&b
+4330,edm
+4331,jazz
+4332,pop
+4333,country
+4334,rock
+4334,new wave
+4334,post punk
+4334,alternative rock
+4335,gothic metal
+4335,symphonic metal
+4335,doom metal
+4336,jazz
+4337,christmas
+4337,pop
+4337,comedy
+4338,jazz
+4339,contemporary classical music
+4340,hip hop
+4340,trap
+4341,hip hop
+4341,r&b
+4342,soul
+4342,indie
+4342,alternative r&b
+4342,r&b
+4342,electronica
+4343,hip hop
+4344,hip hop
+4345,country
+4346,indie pop
+4346,alternative hip hop
+4346,alternative r&b
+4347,electronic club
+4347,rhythm and blues
+4348,jazz
+4349,pop
+4350,jazz
+4351,pop
+4351,rock
+4351,funk
+4352,hip hop
+4352,trap
+4353,pop
+4354,progressive pop
+4354,art pop
+4354,art rock
+4355,christmas
+4355,traditional pop
+4356,british folk rock
+4357,j pop
+4357,electropop
+4357,dance pop
+4358,k pop
+4358,hip hop
+4358,dance pop
+4358,r&b
+4359,heavy metal
+4359,hard rock
+4360,pop
+4361,indie rock
+4362,indie rock
+4362,synth pop
+4363,pop
+4364,rock
+4365,pop
+4366,hip hop
+4367,indie folk
+4368,hip hop
+4368,r&b
+4369,hip hop
+4370,dance pop
+4370,pbr&b
+4370,hip hop
+4371,hip hop
+4372,rock
+4373,pop
+4374,hip hop
+4375,jazz
+4376,electronica
+4376,synth pop
+4376,experimental rock
+4377,drill
+4378,k pop
+4378,electropop
+4378,dance pop
+4379,r&b
+4379,new jack swing
+4379,ballad
+4379,jazz
+4379,dance
+4380,k pop
+4380,folk
+4381,k pop
+4381,dance
+4382,comedy hip hop
+4383,jazz
+4383,easy listening
+4383,soul jazz
+4384,metalcore
+4384,post hardcore
+4385,jazz
+4386,hard rock
+4387,dance
+4387,hip hop
+4387,pop
+4388,k pop
+4388,r&b
+4388,dance pop
+4388,edm
+4388,trap
+4388,hip hop
+4389,art rock
+4390,hard rock
+4390,heavy metal
+4391,k pop
+4392,alternative rock
+4393,pop
+4394,alternative
+4395,ccm
+4396,hard rock
+4397,heavy metal
+4397,power metal
+4398,christian pop
+4398,christian rock
+4398,worship
+4398,pop rock
+4399,country
+4400,country
+4401,jazz
+4402,electronic
+4403,progressive rock
+4403,progressive metal
+4404,hip hop
+4405,classical
+4406,jazz
+4407,alternative rock
+4408,alternative rock
+4409,dance pop
+4409,edm
+4409,trap
+4410,country pop
+4411,dance pop
+4411,r&b
+4412,rock
+4413,j pop
+4413,edm
+4413,dance
+4414,j pop
+4415,punk rock
+4415,post punk
+4416,pop punk
+4417,rock
+4418,jazz
+4419,power metal
+4420,pop rap
+4421,pop
+4422,blues
+4422,pop
+4422,rock
+4422,soul
+4423,country
+4424,ambient
+4424,dream pop
+4424,post rock
+4424,shoegaze
+4424,indie rock
+4425,reggaeton
+4426,space rock
+4426,symphonic rock
+4426,progressive rock
+4426,electronic rock
+4426,alternative metal
+4427,folk
+4428,rock
+4428,heavy metal
+4429,soft rock
+4430,mashup
+4430,remix
+4431,k pop
+4431,r&b
+4431,soul
+4432,j pop
+4433,trip hop
+4433,neo soul
+4433,experimental hip hop
+4433,psychedelic r&b
+4433,electronic
+4434,thrash metal
+4434,acoustic
+4435,country
+4436,hip hop
+4436,r&b
+4437,country rock
+4437,rock
+4438,worship
+4438,ccm
+4439,ccm
+4440,electronica
+4441,jazz
+4442,folk
+4442,indie folk
+4442,americana
+4442,pop punk
+4443,experimental rock
+4443,art rock
+4444,country
+4445,pop
+4446,hip hop
+4446,trap
+4447,jazz
+4448,pop
+4448,pop rock
+4448,teen pop
+4449,jazz
+4450,pop
+4451,horrorcore
+4451,rap rock
+4451,indie hip hop
+4452,garage rock
+4453,symphonic metal
+4453,power metal
+4454,hip hop
+4455,contemporary classical
+4456,alternative rock
+4457,pop
+4458,r&b
+4458,soul
+4459,rock
+4460,pop
+4460,rock
+4461,operatic pop
+4462,rock
+4463,worship
+4464,pop
+4465,edm
+4465,nu disco
+4465,dance pop
+4466,nu metal
+4466,hardcore punk
+4466,grunge
+4467,country
+4467,gospel
+4468,latin pop
+4469,hip hop
+4470,j pop
+4471,j pop
+4471,rock
+4472,hip hop
+4473,pop
+4473,electronic
+4474,country
+4474,contemporary folk
+4475,pop punk
+4476,pop
+4477,pop
+4478,pop
+4479,indie rock
+4480,jazz
+4481,british hip hop
+4482,jazz
+4483,hip hop
+4484,ska punk
+4485,jazz
+4485,roots
+4485,cèilidh
+4485,dance
+4486,hard rock
+4487,australian hip hop
+4488,pop
+4488,folk
+4488,country
+4489,edm
+4490,electro r&b
+4490,electropop
+4491,hip hop
+4492,r&b
+4493,j pop
+4493,r&b
+4493,rock
+4493,dance
+4494,reggaeton
+4495,mboko
+4496,pop rock
+4496,soft rock
+4497,experimental pop
+4498,heavy metal
+4498,power metal
+4499,pop
+4500,futurepop
+4500,dark wave
+4501,r&b
+4502,symphonic metal
+4502,power metal
+4503,electronic
+4503,glitch hop
+4503,wonky
+4503,experimental
+4504,folk metal
+4505,folk rock
+4506,hip hop
+4507,jazz
+4507,classical
+4507,pop
+4508,darkwave
+4508,electronic
+4509,melodic death metal
+4510,rock
+4511,darkwave
+4511,synth pop
+4512,ccm
+4513,k pop
+4513,dance
+4514,indie rock
+4514,acoustic rock
+4514,alternative rock
+4515,pop punk
+4515,alternative rock
+4515,pop rock
+4516,country
+4517,pop
+4518,deathcore
+4518,progressive metal
+4519,jazz
+4520,electronic
+4521,rock
+4521,pop
+4521,folk rock
+4521,indian classical
+4521,experimetal
+4522,synth pop
+4522,minimal techno
+4523,blues
+4523,pop
+4523,rock
+4523,soul
+4524,soft rock
+4524,melodic rock
+4525,celtic
+4525,world
+4526,progressive rock
+4527,hip hop
+4527,trap
+4527,r&b
+4528,progressive death metal
+4529,hard rock
+4530,bachata
+4530,pop
+4530,r&b
+4531,thrash metal
+4531,power metal
+4532,pop
+4532,folk
+4533,nu metal
+4533,alternative metal
+4533,metalcore
+4534,hip hop
+4535,hip hop
+4535,trap
+4536,k pop
+4537,k pop
+4538,pop
+4538,r&b
+4538,pbr&b
+4539,pop
+4540,exotica
+4541,progressive house
+4541,electro house
+4541,downtempo
+4541,idm
+4542,pop
+4543,instrumental rock
+4543,country
+4543,industrial metal
+4544,r&b
+4544,pop
+4545,r&b
+4545,pbr&b
+4546,r&b
+4546,alternative r&b
+4547,french rock
+4548,math rock
+4548,experimental rock
+4548,progressive rock
+4549,celtic punk
+4550,electropop
+4550,synth pop
+4551,deathcore
+4551,progressive metal
+4551,metalcore
+4552,heavy metal
+4552,power metal
+4552,speed metal
+4552,glam metal
+4552,progressive rock
+4552,symphonic metal
+4553,k pop
+4553,ballad
+4553,dance pop
+4554,k pop
+4555,k pop
+4555,hip hop
+4555,r&b
+4555,rock
+4556,k pop
+4557,synth pop
+4557,electropop
+4558,j pop
+4558,hip hop
+4559,hard rock
+4559,alternative rock
+4560,hip hop
+4561,bubblegum pop
+4561,hip hop
+4562,pop
+4562,latin pop
+4563,thrash metal
+4564,hip hop
+4565,rock
+4565,rhythm and blues
+4566,classical crossover
+4567,country
+4568,new wave
+4569,experimental pop
+4570,jazz
+4571,alternative rock
+4571,post grunge
+4572,country
+4573,pop
+4574,punk rock
+4574,hardcore punk
+4575,pop
+4575,adult contemporary
+4576,k pop
+4576,hip hop
+4576,r&b
+4576,dance
+4576,trap
+4577,k pop
+4577,pop
+4577,ballad
+4578,neo soul
+4578,hip hop
+4578,r&b
+4578,funk
+4578,jazz fusion
+4579,r&b
+4580,electronic
+4581,nu metal
+4581,groove metal
+4582,worship
+4582,ccm
+4582,christian rock
+4583,indie pop
+4583,soul
+4584,hard rock
+4585,folk
+4586,alternative pop
+4587,southern rock
+4587,blues rock
+4588,traditional pop
+4589,hip hop
+4589,r&b
+4590,k pop
+4590,pop rock
+4591,k pop
+4592,k pop
+4592,hip hop
+4593,k pop
+4594,electronic
+4594,dance
+4594,hip hop
+4595,j pop
+4595,indie pop
+4596,hard rock
+4596,alternative metal
+4597,pop
+4598,trip hop
+4599,jazz
+4600,pop
+4600,rock
+4600,folk
+4601,r&b
+4602,country
+4603,country
+4604,alternative hip hop
+4604,r&b
+4604,hip hop
+4605,hip hop
+4605,trap
+4606,metalcore
+4606,progressive metal
+4607,country
+4608,dance
+4609,progressive rock
+4610,pop
+4611,r&b
+4612,indie rock
+4613,jazz
+4614,k pop
+4615,hip hop
+4615,gangsta rap
+4616,hip hop
+4617,heavy metal
+4618,electro house
+4618,dance pop
+4619,hip hop
+4620,alternative rock
+4620,dream pop
+4620,shoegazing
+4621,hard rock
+4621,heavy metal
+4622,hip hop
+4623,classical crossover
+4624,pop
+4624,synth pop
+4625,rock
+4626,hip hop
+4626,trap
+4627,indie pop
+4628,hip hop
+4629,indie rock
+4630,rock
+4631,alternative hip hop
+4631,urban
+4631,world
+4632,alternative metal
+4632,hard rock
+4632,alternative rock
+4633,hip hop
+4634,country
+4635,thrash metal
+4636,country pop
+4637,hip hop
+4637,trap
+4638,k pop
+4639,k pop
+4639,tropical house
+4639,alternative pop
+4640,hip hop
+4641,drum and bass
+4641,dubstep
+4641,house
+4642,indie rock
+4642,punk
+4643,contemporary worship music
+4643,contemporary christian music
+4644,jazz
+4645,metalcore
+4645,alternative metal
+4646,hard rock
+4646,heavy metal
+4646,progressive rock
+4646,blues rock
+4647,hardcore punk
+4647,nu metal
+4647,rapcore
+4648,punk rock
+4649,electronic
+4650,dub
+4650,reggae
+4651,electronic
+4652,punk rock
+4653,c pop
+4654,pop rock
+4655,progressive rock
+4656,a cappella
+4656,rock
+4656,country
+4656,pop
+4657,hip hop
+4658,hip hop
+4658,trap
+4659,pop
+4660,ambient
+4660,alternative pop
+4661,folk
+4662,k pop
+4663,j pop
+4663,electronic
+4664,folk
+4664,alternative rock
+4665,pop
+4666,hip hop soul
+4666,r&b
+4666,trap
+4667,rock
+4668,alternative rock
+4669,classical
+4670,progressive metal
+4670,doom metal
+4670,gothic metal
+4670,death doom
+4671,hip hop
+4672,indie pop
+4673,hip hop
+4674,hip hop
+4674,edm
+4674,latin pop
+4675,r&b
+4675,pbr&b
+4676,k pop
+4676,ballad
+4676,r&b
+4676,dance
+4677,indie rock
+4677,lo fi
+4678,pop
+4678,dance pop
+4679,k pop
+4679,bubblegum pop
+4679,trot
+4679,soft rock
+4679,r&b
+4679,ballad
+4680,k pop
+4680,r&b
+4680,ballad
+4681,pop
+4682,country pop
+4683,pop
+4683,rock
+4683,disco
+4684,indie rock
+4684,glam rock
+4684,soul
+4685,country
+4686,latin jazz
+4687,rock
+4688,k pop
+4688,ballad
+4689,r&b
+4689,soul
+4689,funk
+4690,pop
+4691,rock
+4691,soul
+4692,electronic
+4692,drum and bass
+4693,experimental pop
+4694,jazz
+4694,electronica
+4695,rock
+4696,k pop
+4696,r&b
+4696,soul
+4696,ballad
+4697,j pop
+4697,pop rock
+4697,alternative dance
+4698,trip hop
+4699,hip hop
+4700,country
+4701,heavy metal
+4701,alternative metal
+4701,metalcore
+4702,metalcore
+4702,hardcore punk
+4702,post hardcore
+4702,mathcore
+4703,rock opera
+4703,progressive rock
+4703,progressive metal
+4704,progressive rock
+4705,alternative r&b
+4705,electronic
+4706,r&b
+4707,alternative rock
+4708,pop rock
+4709,alternative rock
+4710,hip hop
+4711,pop
+4712,pop
+4713,country
+4714,k pop
+4714,dance pop
+4714,hip hop
+4714,r&b
+4715,rock
+4716,indie pop
+4716,neo psychedelia
+4716,alternative rock
+4717,k pop
+4718,pop
+4718,dance
+4719,pop
+4720,pop
+4721,rock
+4721,post punk
+4722,country rap
+4723,rock
+4724,pop
+4724,pop rock
+4725,hip hop
+4725,trap
+4726,pop
+4727,folk
+4728,reggae
+4729,hip hop
+4729,r&b
+4730,hip hop
+4730,trap
+4730,r&b
+4730,kwaito
+4731,rock
+4732,k pop
+4733,pop
+4733,r&b
+4734,hip hop
+4735,pop
+4735,indie pop
+4736,alternative
+4737,indie pop
+4737,indie rock
+4737,alternative rock
+4738,pop
+4738,electropop
+4739,schlager
+4739,pop
+4740,r&b
+4741,christian
+4742,pop
+4743,pop rock
+4744,rock
+4745,hard rock
+4745,heavy metal
+4745,glam metal
+4746,pop
+4747,k pop
+4747,dance
+4748,k pop
+4749,j pop
+4750,hip hop
+4750,trap
+4750,punk rap
+4750,pop
+4751,hip hop
+4751,r&b
+4752,rock
+4752,alternative
+4753,indie pop
+4753,rock
+4754,punk rock
+4755,rock
+4756,indie pop
+4757,progressive rock
+4758,deathcore
+4759,alternative metal
+4759,hard rock
+4759,alternative rock
+4759,rap rock
+4759,nu metal
+4760,country
+4761,hip hop
+4761,christian hip hop
+4761,alternative hip hop
+4762,east coast hip hop
+4763,ambient
+4763,electronic
+4764,k pop
+4765,rock
+4766,j pop
+4767,j pop
+4768,power metal
+4768,folk metal
+4769,country
+4770,rock
+4770,indie rock
+4771,midwest hip hop
+4772,hip hop
+4772,trap
+4773,electronic
+4774,christian rock
+4774,hard rock
+4774,alternative rock
+4774,alternative metal
+4775,jazz
+4776,pop
+4776,soul
+4777,symphonic power metal
+4778,latin pop
+4779,k pop
+4780,k pop
+4781,blues
+4782,hip hop
+4783,heavy metal
+4783,alternative metal
+4783,hard rock
+4784,pop
+4785,indie rock
+4786,indie rock
+4787,country
+4787,country pop
+4788,electronica
+4788,dancehall
+4789,pop
+4789,electronic
+4790,electronic
+4790,synth pop
+4790,new wave
+4790,dream pop
+4791,progressive metal
+4791,mathcore
+4791,avant garde metal
+4792,k pop
+4793,thrash metal
+4794,techno
+4795,k pop
+4796,k pop
+4796,pop rock
+4797,k pop
+4798,r&b
+4798,hip hop
+4799,hip hop
+4800,synth pop
+4801,electronic rock
+4801,gothic rock
+4802,punk rock
+4802,pop punk
+4802,alternative rock
+4802,garage rock
+4803,blues
+4804,pop
+4804,electropop
+4805,worship
+4805,ccm
+4806,country pop
+4807,k pop
+4807,hip hop
+4807,r&b
+4807,dance pop
+4807,edm
+4807,trap
+4808,k pop
+4808,r&b
+4808,dance pop
+4808,edm
+4809,symphonic black metal
+4810,alternative metal
+4810,stoner rock
+4810,alternative rock
+4810,post grunge
+4811,indie pop
+4812,shoegazing
+4812,alternative rock
+4812,indie rock
+4812,post punk
+4812,post hardcore
+4813,heavy metal
+4813,power metal
+4814,hip hop
+4815,rock
+4816,hip hop
+4816,trap
+4817,hard rock
+4817,rock
+4817,pop
+4818,electronica
+4818,progressive house
+4818,chill out
+4818,ambient
+4819,synth pop
+4820,k pop
+4821,alternative rock
+4821,reggae rock
+4821,rap rock
+4822,hip hop
+4822,pop rap
+4822,r&b
+4822,edm
+4823,punk rock
+4824,electronic rock
+4825,blackened death metal
+4826,crossover thrash
+4827,post hardcore
+4827,hardcore punk
+4827,pop punk
+4828,electronic
+4829,rock
+4830,pop
+4831,rock
+4832,hip hop
+4833,blues rock
+4833,hip hop
+4834,k pop
+4835,hip hop
+4836,crossover thrash
+4837,r&b
+4837,soul
+4838,k pop
+4839,r&b
+4840,nu metal
+4841,heavy metal
+4841,power metal
+4842,pop
+4843,indie pop
+4844,pop
+4844,edm
+4844,tropical house
+4845,pop punk
+4845,metalcore
+4845,post hardcore
+4845,alternative rock
+4846,technical death metal
+4847,christian hip hop
+4847,rap rock
+4847,christian alternative rock
+4848,tropical music
+4849,a cappella
+4850,folk
+4850,indie pop
+4851,melodic death metal
+4851,power metal
+4851,symphonic black metal
+4852,rock
+4852,r&b
+4853,indie rock
+4853,electropop
+4854,rock
+4855,rock
+4856,country
+4857,symphonic metal
+4857,rock
+4857,pop
+4858,blues rock
+4859,r&b
+4860,heavy metal
+4860,hard rock
+4860,blues rock
+4861,electronic
+4862,christian
+4862,gospel
+4863,pop
+4864,contemporary worship
+4864,ccm
+4865,r&b
+4866,country
+4867,jazz
+4867,folk
+4868,synth pop
+4869,r&b
+4870,electropop
+4871,hip hop
+4872,americana
+4872,country
+4873,pop punk
+4874,jazz
+4875,deathcore
+4876,melodic death metal
+4877,psychedelic rock
+4877,jazz
+4878,cloud rap
+4878,experimental pop
+4879,progressive metal
+4879,avant garde metal
+4879,progressive rock
+4880,electropop
+4881,instrumental rock
+4881,experimental metal
+4882,pop
+4883,jazz
+4884,indie rock
+4885,doom metal
+4886,pop rock
+4886,dance
+4887,hard rock
+4887,heavy metal
+4887,post grunge
+4887,alternative metal
+4888,melodic death metal
+4889,country
+4890,alternative rock
+4891,r&b
+4892,country pop
+4893,acid house
+4893,idm
+4893,electro
+4894,pop
+4894,pop rock
+4895,alternative rock
+4895,post hardcore
+4895,metalcore
+4895,electronica
+4896,r&b
+4896,soul
+4896,pop
+4897,edm
+4898,rock
+4899,traditional pop
+4899,vocal jazz
+4899,swing
+4899,big band
+4900,hip hop
+4901,future bass
+4902,ccm
+4903,neotraditional country
+4904,r&b
+4904,soul
+4905,country
+4905,""" childrens"""
+4906,pop
+4907,jazz
+4908,pop
+4909,pop
+4909,gospel
+4910,r&b
+4911,alternative r&b
+4911,indie pop
+4911,soul
+4912,folk
+4913,christmas
+4914,christmas
+4915,show tunes
+4916,hard rock
+4916,glam metal
+4917,pop
+4918,jazz
+4919,pop
+4919,pop rock
+4920,country
+4921,country pop
+4922,country pop
+4923,soul
+4923,pop
+4924,christmas
+4925,christmas music
+4925,hard rock
+4925,power pop
+4926,country
+4927,country
+4928,hard rock
+4928,heavy metal
+4929,r&b
+4930,christmas
+4930,classical crossover
+4931,trance
+4932,thrash metal
+4932,groove metal
+4932,heavy metal
+4932,progressive metal
+4933,rock
+4934,country
+4935,pop
+4935,r&b
+4936,christmas
+4937,rap rock
+4937,alternative rock
+4937,nu metal
+4937,pop rock
+4937,hip hop
+4938,jazz
+4939,christian rock
+4940,pop
+4940,pop rock
+4941,hip hop
+4942,pop
+4942,dance
+4942,r&b
+4943,country
+4944,rock
+4944,soft rock
+4945,pop
+4945,indie pop
+4945,bluegrass
+4946,southern rock
+4946,country
+4947,country
+4948,contemporary classical
+4949,jazz
+4949,swing
+4950,pop rock
+4951,alternative rock
+4952,country
+4953,ccm
+4953,worship
+4954,jazz
+4955,classical
+4955,downtempo
+4955,ambient
+4956,east coast hip hop
+4956,horrorcore
+4957,christmas
+4958,indie rock
+4958,pop rock
+4958,electronic
+4959,pop
+4960,comedy
+4961,pop
+4961,soul
+4961,r&b
+4962,hard rock
+4962,pop rock
+4963,country pop
+4964,death metal
+4965,avant garde metal
+4965,swing revival
+4965,progressive metal
+4965,symphonic metal
+4965,experimental rock
+4966,r&b
+4966,soul
+4967,hip hop
+4968,country
+4969,electronic
+4969,experimental pop
+4969,dance pop
+4970,hip hop
+4970,trap
+4971,psychedelic rock
+4971,psychedelic pop
+4971,progressive rock
+4971,experimental rock
